@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "e333fd230778b8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a1e8731131e7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f1428ddc0ac222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync/2. World Building(Soluna)/3. Magic/Types of Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Magic"
+            }
+          },
+          {
+            "id": "661b1bc4e0efca6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync/3. Balance Changes/Class Changes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class Changes"
+            }
+          },
+          {
+            "id": "1a61ce75f2e719fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync/98. Glossary/Liquid Moonlight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liquid Moonlight"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d4691cfe1fd71d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5dfbfd12350418",
+        "type": "tabs",
+        "dimension": 71.91235059760956,
+        "children": [
+          {
+            "id": "2b91bcaaa8f049b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33b38e54d35439c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da84487fda6203d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6c4eeb90087849ba",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ]
+      },
+      {
+        "id": "44fff9bbd1fa373b",
+        "type": "tabs",
+        "dimension": 28.087649402390433,
+        "children": [
+          {
+            "id": "db6097d7eb16b233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sync/2. World Building(Soluna)/1. The History/2. Settling In.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Settling In"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "878607fd5c61b509",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7a028762449cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a45e5a5c6aa62c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73d2d9473508c3e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a93cec9c3277bb39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbfeebbd68f0c7dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d0510a370c0b803a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sync/98. Glossary/Liquid Moonlight.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Liquid Moonlight"
+            }
+          },
+          {
+            "id": "9633e31277b714dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "9633e31277b714dc",
+  "lastOpenFiles": [
+    "sync/4. Additional changes to mechanics/Weapon Additions.md",
+    "sync/3. Balance Changes/Class Changes.md",
+    "sync/2. World Building(Soluna)/3. Magic/Types of Magic.md",
+    "sync/2. World Building(Soluna)/3. Magic/Mana.md",
+    "sync/README.md",
+    "sync/let's see if it works.md",
+    "sync/1. Rules/1. Welcome.md",
+    "sync",
+    "sync/2. World Building(Soluna)/1. The History/2. Settling In.md",
+    "sync/2. World Building(Soluna)/1. The History/1. The Flood.md",
+    "sync/2. World Building(Soluna)/1. The History/3. The World Before The Flood.md",
+    "sync/2. World Building(Soluna)/2. The World/Map.md",
+    "sync/2. World Building(Soluna)/3. Magic/Ashen Blood.md",
+    "sync/1. Rules/2. Character Creation.md",
+    "sync/1. Rules/3. Martial.md",
+    "sync/1. Rules/4. Revival.md",
+    "sync/98. Glossary/Liquid Moonlight.md",
+    "sync/2. World Building(Soluna)/5. Factions/Umbra",
+    "sync/2. World Building(Soluna)/5. Factions/Elysium",
+    "Excalidraw/Drawing 2026-04-20 13.08.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-20 13.05.48.excalidraw.md",
+    "thumbnails/resized/b3ff2abc951e9735a6379a5fe8272f50_86cf658e.webp",
+    "99. images/Pasted image 20260420130840.png",
+    "Excalidraw",
+    "sync/2. World Building(Soluna)/5. Factions/Astral Sanctuary/Astral Sanctuary.md",
+    "sync/2. World Building(Soluna)/5. Factions/Astral Sanctuary",
+    "sync/thumbnails/resized/9ec2830c9ea459e47011022b92501b0c_86cf658e.webp",
+    "sync/99. images/map.png",
+    "sync/98. Glossary/Weeping Moon.md",
+    "sync/98. Glossary/Shattered Moon.md",
+    "sync/thumbnails/resized/cf2117c233c290bf248fa23a07660a67_86cf658e.webp",
+    "sync/thumbnails/resized/e0b429d5f5739bf62e0f0b0553ccc12f_86cf658e.webp",
+    "sync/99. images/planet.jpg",
+    "99. images/Unconfirmed 474672.crdownload",
+    "sync/thumbnails/resized/06e53ee2aa5e053b75ee979169d298cb_86cf658e.webp",
+    "sync/99. images/shattered_moon.jpg",
+    "99. images/Unconfirmed 759955.crdownload",
+    "sync/98. Glossary/Moonlit Beasts.md",
+    "sync/2. World Building(Soluna)/5. Factions/Prometheus Institute/Prometheus Institute.md",
+    "sync/2. World Building(Soluna)/5. Factions/Prometheus Institute",
+    "sync/thumbnails/resized/b10c076d6a3a4a0947143d1fd32d7708_86cf658e.webp",
+    "99. images/Unconfirmed 646848.crdownload",
+    "().md",
+    "sync/1. Rules",
+    "Welcome.md"
+  ]
+}
