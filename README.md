@@ -20,7 +20,7 @@ https://git-scm.com/install/
 2. In the "terminal" that pops up, type in `git clone` and press enter
 3. Paste the following:
 	`https://github.com/Rati-Burdiashvili/DnD/tree/main`
-4. It will then prompt you to type an empty directory, type in `sync`. I know the name is ass, I made it while testing and I am lazy to reset it
+4. It will then prompt you to type an empty directory, type in any name you want, such as Nexus. Anything works
 
 #### **Step 4: Git**
 
