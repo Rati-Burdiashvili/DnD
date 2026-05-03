@@ -29,4 +29,6 @@ https://git-scm.com/install/
 3. It should all be updated along with my settings, however the plugins might need to be enabled manually
    
    
-# **D
+# **WARNING**
+
+For the love of god, do not try to git commit or push please
