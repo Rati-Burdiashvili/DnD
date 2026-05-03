@@ -2,9 +2,11 @@
 
 Follow the instructions down below, ask me if something doesn't work
 
-#### **Step 1: Download and install Obsidian**
+#### **Step 1: Download and install Obsidian and Git**
 
 https://obsidian.md/download
+
+https://git-scm.com/install/
 
 #### **Step 2:** Install the Git community plugin
 
@@ -18,4 +20,10 @@ https://obsidian.md/download
 2. In the "terminal" that pops up, type in `git clone` and press enter
 3. Paste the following:
 	`https://github.com/Rati-Burdiashvili/DnD/tree/main`
-4. 
+4. It will then prompt you to type an empty directory, type in `sync`. I know the name is ass, I made it while testing and I am lazy to reset it
+
+#### **Step 4: Git**
+
+1. Type ctrl + P again
+2. type in these commands in this order
+	`git clone`
