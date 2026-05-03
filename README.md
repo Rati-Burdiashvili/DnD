@@ -25,5 +25,5 @@ https://git-scm.com/install/
 #### **Step 4: Git**
 
 1. Type ctrl + P again
-2. type in these commands in this order
-	`git clone`
+2. Type `git pull` in the terminal
+3. It should all be updated along with my settings
