@@ -26,4 +26,4 @@ https://git-scm.com/install/
 
 1. Type ctrl + P again
 2. Type `git pull` in the terminal
-3. It should all be updated along with my settings
+3. It should all be updated along with my settings, however the plugins might need to be enabled manually
