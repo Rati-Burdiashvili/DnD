@@ -17,3 +17,5 @@ https://obsidian.md/download
 1. Type ctrl + P
 2. In the "terminal" that pops up, type in `git clone` and press enter
 3. Paste the following:
+	`https://github.com/Rati-Burdiashvili/DnD/tree/main`
+4. 
