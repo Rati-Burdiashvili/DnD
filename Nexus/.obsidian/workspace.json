@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sync/98. Glossary/Liquid Moonlight.md",
+                "file": "sync/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liquid Moonlight"
+              "title": "README"
             }
           }
         ],
@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,11 +257,13 @@
   },
   "active": "9633e31277b714dc",
   "lastOpenFiles": [
+    "sync/1. Rules/2. Character Creation.md",
+    "sync/README.md",
+    "sync/98. Glossary/Liquid Moonlight.md",
     "sync/4. Additional changes to mechanics/Weapon Additions.md",
     "sync/3. Balance Changes/Class Changes.md",
     "sync/2. World Building(Soluna)/3. Magic/Types of Magic.md",
     "sync/2. World Building(Soluna)/3. Magic/Mana.md",
-    "sync/README.md",
     "sync/let's see if it works.md",
     "sync/1. Rules/1. Welcome.md",
     "sync",
@@ -270,10 +272,8 @@
     "sync/2. World Building(Soluna)/1. The History/3. The World Before The Flood.md",
     "sync/2. World Building(Soluna)/2. The World/Map.md",
     "sync/2. World Building(Soluna)/3. Magic/Ashen Blood.md",
-    "sync/1. Rules/2. Character Creation.md",
     "sync/1. Rules/3. Martial.md",
     "sync/1. Rules/4. Revival.md",
-    "sync/98. Glossary/Liquid Moonlight.md",
     "sync/2. World Building(Soluna)/5. Factions/Umbra",
     "sync/2. World Building(Soluna)/5. Factions/Elysium",
     "Excalidraw/Drawing 2026-04-20 13.08.49.excalidraw.md",
