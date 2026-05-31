@@ -10,4 +10,13 @@ These crystals, as the name suggests are a concentrated form of magic. Despite t
 #### **Sources**
 
 1. [[98. Glossary/Moonlit Beasts|Moonlit beasts]] - The beasts are the source of most medium sized crystals.
-2. Oceanic creatures - They are the sour
+2. Oceanic creatures - They are the source of most small sized crystals.
+3. Huge oceanic creatures - every so often, a larger, mutated sea creature can evolve in the water. They tend to house huge crystals.
+4. Moonlit Shepherds - unique crystals.
+5. Synthesis - skilled mages can synthesize their own [[Mana|mana]] crystals into channeling their [[Mana|mana]] into specific materials, however this usually results in small crystals at best, due to even small crystals having more [[Mana|mana]] than an average mage. However the end result is usually a much more refined crystal, which are called "gems".
+6. Synthesis - synthesis can also mean combining smaller crystals to create a larger one. 100 small crystals can be synthesized into 1 medium, and 30 mediums can be synthesized into 1 large one.
+
+
+#### **Types**
+
+span style="color: #ff1231;">Your text here</span>
