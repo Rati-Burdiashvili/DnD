@@ -9,7 +9,7 @@ These crystals, as the name suggests are a concentrated form of magic. Despite t
    
 #### **Sources**
 
-1. [[98. Glossary/Moonlit Beasts|Moonlit beasts]] - The beasts are the source of most medium sized crystals.
+1. [[Moonlit Beasts|Moonlit beasts]] - The beasts are the source of most medium sized crystals.
 2. Oceanic creatures - They are the source of most small sized crystals.
 3. Huge oceanic creatures - every so often, a larger, mutated sea creature can evolve in the water. They tend to house huge crystals.
 4. Moonlit Shepherds - unique crystals.
@@ -19,4 +19,7 @@ These crystals, as the name suggests are a concentrated form of magic. Despite t
 
 #### **Types**
 
-span style="color: #ff1231;">Your text here</span>
+- Fire
+- Cold
+- Lightning
+- Force

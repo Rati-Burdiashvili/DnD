@@ -1,1 +1,1 @@
-magic school
+The Astral Sanctuary

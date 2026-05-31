@@ -1,0 +1,1 @@
+Moonlit Shepherds are a unique, significantly deadlier versions of [[98. Glossary/Moonlit Beasts|Moonlit beasts]]. In the last 300 years
