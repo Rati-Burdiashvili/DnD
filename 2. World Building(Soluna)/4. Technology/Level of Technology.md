@@ -6,3 +6,4 @@ Airships, similar to blimps exist, but without the blimp part.
 There is no radio towers or radio communications but sending stones exist.
 There is no broadcasting(such as television).
 Surgery and medication still exist, and are blended in with magic for healthcare.
+Household appliances still exist
