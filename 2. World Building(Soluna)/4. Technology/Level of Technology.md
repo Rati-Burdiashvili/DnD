@@ -5,4 +5,4 @@ It is quite similar to our level of technology, higher in some aspects.
 Airships, similar to blimps exist, but without the blimp part.
 There is no radio towers or radio communications but sending stones exist.
 There is no broadcasting(such as television).
-T
+Surgery and medication still exist, and are blended in with magic for healthcare.
