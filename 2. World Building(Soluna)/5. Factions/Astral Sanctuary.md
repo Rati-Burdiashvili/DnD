@@ -1,1 +1,1 @@
-The Astral Sanctuary
+The Astral Sanctuary was created as 
