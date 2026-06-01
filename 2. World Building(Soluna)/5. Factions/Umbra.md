@@ -25,3 +25,4 @@ A towering man, as unmovable as a mountain. He believes in a steady defense and 
 
 ### **Miriel**
 
+![[miriel.jpg|489]]
