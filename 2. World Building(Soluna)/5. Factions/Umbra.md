@@ -56,3 +56,13 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 </div>  
 </div>
 
+### **Verina**
+
+<div style="display:flex; gap:20px; align-items:flex-start;">  
+<img src="Verina.jpg" width="250">  
+<div>  
+<p>A blind warrior, who hasn't lost her edge yet.</p>  
+<p>Despite losing sight, neither her combat abilities nor her burning desire to protect have weakened.</p>  
+<p>She says her senses, particularly the ability to sense [[Mana|mana]] have bee.</p>  
+</div>  
+</div>
