@@ -1,3 +1,7 @@
+---
+feature: ironclad.jpg
+thumbnail: thumbnails/resized/63535d8cee8252c62aab3343b969727d_86cf658e.webp
+---
 ### **Overview**
 
 Umbra can be considered a military. It is the most dangerous occupation that one can have in this world. The main purpose behind it's creation is of course to combat the weeping nights. They have strict protocols in place that every person follows for their safety. They do not act as "police" or "guardsmen", they only deal with [[98. Glossary/Moonlit Beasts|moonlit beasts]] and the occasional aquatic monsters that decide to come ashore.
@@ -10,4 +14,14 @@ There is no one true leader of Umbra. There are 6 commanders that share this res
 
 As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wishes to join, they need to prove their capabilities through a trial of combat and strategy, before they are even allowed a chance to fight the weeping night.
 
-####
+### **Commanders**
+
+#### **Ironclad**
+
+![[ironclad.jpg]]
+
+A towering man, as unmovable as a mountain. He believes in a steady defense and possess an unbreakable spirit. He can always be seen on the frontlines with the rest of his soldiers, holding the night at bay.
+
+
+### **Miriel**
+
