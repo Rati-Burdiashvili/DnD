@@ -29,7 +29,10 @@ Some believe that the gate holds the answers to the questions everyone has regar
 4. Artifact extraction - The trial took place entirely in a dungeon. It was filled with traps and trials of combat. The dungeon was safeguarding a peculiar relic, which hasn't been publicly revealed.
     - Status - inaccessible
     - Casualties - one
-5. 
-6. asd
-7. ada
-8. ad
+5. Rebellion - The explorers became part of a rebellion against a corrupt regime.
+	 - Status - inaccessible
+	 - Casualties - two
+6. MORE WILL BE ADDED WITH TIME
+
+
+There have also of course been failed expeditions as well, 3 failed expeditions in total, with their total casualty 
