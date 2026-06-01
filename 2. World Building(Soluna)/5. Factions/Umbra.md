@@ -45,7 +45,7 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 </div>  
 </div>
 
-### **Selius**
+#### **Selius**
 
 <div style="display:flex; gap:20px; align-items:flex-start;">  
 <img src="Selivus.jpg" width="250">  
@@ -56,7 +56,7 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 </div>  
 </div>
 
-### **Verina**
+#### **Verina**
 
 <div style="display:flex; gap:20px; align-items:flex-start;">  
 <img src="Verina.jpg" width="250">  
@@ -67,4 +67,14 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 </div>  
 </div>
 
-### **Jason**
+#### **Jason**
+
+<div style="display:flex; gap:20px; align-items:flex-start;">  
+<img src="jason.jpg" width="250">  
+<div>  
+<p>More of a soldier, than a commander.</p>  
+<p>He acquired his position due to his hunches and instincts being extremely accurate during weeping nights, but the actual commanding outside of the night is done by his second in command.</p>  
+<p>Jason hasn't been seen with his face uncovered in years, and he makes few public appearances to begin with. There are rumors his face got disfigured by liquid moonlight, so he prefers to hide his scars.</p>  
+</div>  
+</div>
+
