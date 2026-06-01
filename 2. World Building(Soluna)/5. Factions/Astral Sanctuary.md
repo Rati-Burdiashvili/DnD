@@ -20,3 +20,9 @@ Other than tiers, the sanctuary divides students by schools of magic(evocation, 
 ### **Overview of Research**
 
 The Astral Sanctuary is not only an academy for budding mages, it is also a center of research. Day and night the mages toil away to refine and create new spells, trying to break the barrier of what is possible. 
+
+Over the years they have succeeded in advancing magic to higher and higher levels, but they have been stuck on the Liquid Moonlight, unable to dispel it or put it to use.
+
+
+### **Director**
+
