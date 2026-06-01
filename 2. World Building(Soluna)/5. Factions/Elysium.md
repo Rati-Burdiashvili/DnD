@@ -32,7 +32,10 @@ Some believe that the gate holds the answers to the questions everyone has regar
 5. Rebellion - The explorers became part of a rebellion against a corrupt regime.
 	 - Status - inaccessible
 	 - Casualties - two
-6. MORE WILL BE ADDED WITH TIME
+6. Underworld - the party that took this on found themselves in what they could only describe as a deep chasm, an abyss. A world with no ceiling. They ventured deeper and deeper into the chasm until they reached the bottom. They had to face a guardian of an undisclosed relic there, before finally being allowed to return home.
+	 - Status - accessible
+	 - casualties - one
+7. MORE WILL BE ADDED WITH TIME
 
 
 There have also of course been failed expeditions as well, 3 failed expeditions in total, with their total casualty rate totaling 13. The fates of the explorers are unknown, they are presumed dead.
