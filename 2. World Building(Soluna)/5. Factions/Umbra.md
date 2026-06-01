@@ -30,8 +30,8 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 <div>  
 <p>A cunning woman, faster than moonlight.</p>  
 <p>She lacks the power that some of her comrades boast she more than makes up for it with her wit.</p>  
-<p>She prides herself in the fastest takedown speed of [[98. Glossary/Moonlit Beasts, as her and her soldiers focus on the offensive.</p>  
+<p>She prides herself in the fastest takedown speed of [[98. Glossary/Moonlit Beasts|Moonlit Beasts]], as her and her soldiers focus on the offensive.</p>  
 </div>  
 </div>
 
-
+###
