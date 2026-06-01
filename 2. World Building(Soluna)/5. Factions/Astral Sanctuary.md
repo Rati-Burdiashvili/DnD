@@ -28,4 +28,8 @@ Over the years they have succeeded in advancing magic to higher and higher level
 
 ![[Orlaith.jpg]]
 
-The members of the Astral Sanctuary call her The Director. She's one of the first people to utilize [[Mana|mana]]. She is one of the few people who managed to acquire and learn how to utilize magic despite not being born with [[Mana|mana]]. She is a 5th class mage(5th level), the highest class achieved
+The members of the Astral Sanctuary call her The Director. She's one of the first people to utilize [[Mana|mana]]. She is one of the few people who managed to acquire and learn how to utilize magic despite not being born with [[Mana|mana]]. She is a 5th class mage(5th level), the highest class achieved by mankind so far.
+
+Orlaith is a dark elf, who has lived for well over 500 years, and is a witness to both the great wars and the flood, though she prefers not to speak of these events.
+
+While extremely knowledgeable and capable, Orlaith does not consider herself a woman of action anymore. 300 years ago she may have lead the charge of survival, but nowadays she spends her time holed up in the Astral sanctuary, researching and honing her skills, occasionally making an appearance to test promising students.
