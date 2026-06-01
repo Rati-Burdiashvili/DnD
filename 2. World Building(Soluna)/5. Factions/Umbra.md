@@ -34,4 +34,13 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 </div>  
 </div>
 
-###
+### **Darius**
+
+<div style="display:flex; gap:20px; align-items:flex-start;">  
+<img src="Darius.jpg" width="250">  
+<div>  
+<p>A man with next to no combat abilities.</p>  
+<p>However, he more than makes up for it with a strate</p>  
+<p>.</p>  
+</div>  
+</div>
