@@ -18,11 +18,15 @@ Some believe that the gate holds the answers to the questions everyone has regar
 ### **Explored Worlds**
 
 1. Avalon - a medieval kingdom on the verge of collapse from an undead uprising.
-	- Status - no longer accessible
+	- Status - inaccessible
 	- Casualties - none
-2. Ancient forest - an ancient forest home to giant creatures. The explorers were tasked with 
-3. asd
-4. ad
+2. Ancient forest - an ancient forest home to giant creatures. The explorers were tasked with safeguarding and escorting a young child to the forest's guardian.
+	- Status - accessible
+	- Casualties - none
+3. Monster invasion - The explorers found themselves in a city under siege by all manners of monstrous creatures. They participated in the city's defense for 30 days.
+	- Status - accessible
+	- Casualties - three
+4. 
 5. asd
 6. asd
 7. ada
