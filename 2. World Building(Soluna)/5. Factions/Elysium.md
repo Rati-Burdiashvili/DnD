@@ -12,4 +12,18 @@ The trials are so far theorized to be other worlds, or even fiction perhaps, the
 
 The trials the explorers have to undertake are varied and unpredictable. Only 5 people at most can take on a trial at a time. The gate will either choose specific people for it, or anyone who has been chosen prior can attempt it instead. Once inside, there is no way to return unless the exploration is seen through to the end.
 
-Some believe that the gate holds the answers to the questions everyone has regarding the state of the world, and that one of these answers, or even the gate itself will lead them to "paradise", hence why it is called Elysium
+Some believe that the gate holds the answers to the questions everyone has regarding the state of the world, and that one of these answers, or even the gate itself will lead them to "paradise", hence why it is called Elysium. But for how true this is, only time will tell.
+
+
+### **Explored Worlds**
+
+1. Avalon - a medieval kingdom on the verge of collapse from an undead uprising.
+	- Status - no longer accessible
+	- Casualties - none
+2. Ancient forest - 
+3. asd
+4. ad
+5. asd
+6. asd
+7. ada
+8. ad
