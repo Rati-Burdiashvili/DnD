@@ -24,5 +24,8 @@ The Astral Sanctuary is not only an academy for budding mages, it is also a cent
 Over the years they have succeeded in advancing magic to higher and higher levels, but they have been stuck on the Liquid Moonlight, unable to dispel it or put it to use.
 
 
-### **Director**
+### **Director, Orlaith**
 
+![[Orlaith.jpg]]
+
+The members of the Astral Sanctuary call her The Director. She's one of the first people to utilize [[Mana|mana]]. She is one of the few people who managed to acquire and learn how to utilize magic despite not being born with [[Mana|mana]]. She is a 5th class mage(5th level), the highest class achieved
