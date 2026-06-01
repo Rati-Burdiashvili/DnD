@@ -51,7 +51,8 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 <img src="Selivus.jpg" width="250">  
 <div>  
 <p>A magician with almost no peers.</p>  
-<p>He is one of the few apprentices of Orlaith</p>  
-<p>He skillfully directs his men to protect the people and themselves, with his teams having the lowest number of casualties on average.</p>  
+<p>He is one of the few apprentices of Orlaith.</p>  
+<p>In truth, he makes up the majority of the firepower of his squad. He was disowned by Orlaith for Selius's insistence on mostly, if not only practicing only destructive magic. While that has proven extremely useful, some say it has led to him having an explosive temperament.</p>  
 </div>  
 </div>
+
