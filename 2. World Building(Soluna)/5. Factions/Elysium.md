@@ -20,7 +20,7 @@ Some believe that the gate holds the answers to the questions everyone has regar
 1. Avalon - a medieval kingdom on the verge of collapse from an undead uprising.
 	- Status - no longer accessible
 	- Casualties - none
-2. Ancient forest - 
+2. Ancient forest - an ancient forest home to giant creatures. The explorers were tasked with 
 3. asd
 4. ad
 5. asd
