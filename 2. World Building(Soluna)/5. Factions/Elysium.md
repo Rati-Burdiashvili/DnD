@@ -26,8 +26,10 @@ Some believe that the gate holds the answers to the questions everyone has regar
 3. Monster invasion - The explorers found themselves in a city under siege by all manners of monstrous creatures. They participated in the city's defense for 30 days.
 	- Status - accessible
 	- Casualties - three
-4. 
-5. asd
+4. Artifact extraction - The trial took place entirely in a dungeon. It was filled with traps and trials of combat. The dungeon was safeguarding a peculiar relic, which hasn't been publicly revealed.
+    - Status - inaccessible
+    - Casualties - one
+5. 
 6. asd
 7. ada
 8. ad
