@@ -19,4 +19,4 @@ Other than tiers, the sanctuary divides students by schools of magic(evocation, 
 
 ### **Overview of Research**
 
-The Astral Sanctuary is not only an academy for budding mages, it is also
+The Astral Sanctuary is not only an academy for budding mages, it is also a center of research. Day and night the mages toil away to refine and create new spells, trying to break the barrier of what is possible. 
