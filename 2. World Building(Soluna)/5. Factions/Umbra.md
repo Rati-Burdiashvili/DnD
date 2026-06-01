@@ -6,4 +6,8 @@ There is a squad always stationed at every island. During their off time they tr
 
 When the weeping night finally comes, they are ready with fortifications, traps and weapons to repel them. Umbra's goal is never to kill as many [[98. Glossary/Moonlit Beasts|moonlit beasts]] as possible, there is never an end to them. They stall for time, as much as they can, until the sun rises.
 
-There is no 
+There is no one true leader of Umbra. There are 6 commanders that share this responsibility and have soldiers under their command. Each of the commanders has 2 islands they are responsible for protecting.
+
+As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wishes to join, they need to prove their capabilities through a trial of combat and strategy, before they are even allowed a chance to fight the weeping night.
+
+####
