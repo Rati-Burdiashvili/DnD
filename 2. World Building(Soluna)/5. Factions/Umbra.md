@@ -40,7 +40,18 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 <img src="Darius.jpg" width="250">  
 <div>  
 <p>A man with next to no combat abilities.</p>  
-<p>However, he more than makes up for it with a strate</p>  
-<p>.</p>  
+<p>However, he more than makes up for it with a strategic mind.</p>  
+<p>He skillfully directs his men to protect the people and themselves, with his teams having the lowest number of casualties on average.</p>  
+</div>  
+</div>
+
+### **Selius**
+
+<div style="display:flex; gap:20px; align-items:flex-start;">  
+<img src="Selivus.jpg" width="250">  
+<div>  
+<p>A magician with almost no peers.</p>  
+<p>He is one of the few apprentices of Orlaith</p>  
+<p>He skillfully directs his men to protect the people and themselves, with his teams having the lowest number of casualties on average.</p>  
 </div>  
 </div>
