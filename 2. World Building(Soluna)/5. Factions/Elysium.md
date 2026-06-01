@@ -35,4 +35,17 @@ Some believe that the gate holds the answers to the questions everyone has regar
 6. MORE WILL BE ADDED WITH TIME
 
 
-There have also of course been failed expeditions as well, 3 failed expeditions in total, with their total casualty 
+There have also of course been failed expeditions as well, 3 failed expeditions in total, with their total casualty rate totaling 13. The fates of the explorers are unknown, they are presumed dead.
+
+
+### **Guildmaster, Felix**
+
+![[EVak56mUEAYc0B2.jpg]]
+
+The current guildmaster of Elysium and a retired explorer, Felix Belator.
+
+He is a man of considerable skill, but due to injuries that he sustained during his last exploration, he had to step away from field work and take on the mantle of guildmaster.
+
+He spends his days supporting the guild from behind the scenes, financially and logistically. He also tries to help the guild members in their personal affairs if they are having issues and mediates between the guild and other organizations.
+
+Overall, inside the guildhall however, he acts unserious and rather friendly, even if the first impressions would make you think otherwise.
