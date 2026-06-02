@@ -1,0 +1,20 @@
+---
+feature: thumbnails/external/d2dd9e015740b27755b24657ec3397ed.jpg
+thumbnail: thumbnails/resized/112bb4d6f6974d549ecc717ce7367de6_86cf658e.webp
+---
+  
+![](https://onenote.officeapps.live.com/o/GetImage.ashx?&WOPIsrc=https%3A%2F%2Fmy%2Emicrosoftpersonalcontent%2Ecom%2Fpersonal%2Ffc32d868c0872f08%2F%5Fvti%5Fbin%2Fwopi%2Eashx%2Ffiles%2FFC32D868C0872F08%21s9728245bafb443c19448ac5750d54cb8&access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkIyMkNEQjc4MDJGOTc2RTg3QzI0N0FERkU1M0MyQzA5REVDOUEyMTMiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJzaXpiZUFMNWR1aDhKSHJmNVR3c0NkN0pvaE0ifQ%2EeyJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8YnVyZGlhc2h2aWxpcmF0aUBnbWFpbC5jb20iLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwwMDAzNDAwMTFlMDk3YjkwQGxpdmUuY29tIiwic2hhcmluZ2lkIjoiMzc0MTc3NzE2NTEwNDU0ODAwOF8yODIxYjQ3My1mZTI0LTRjODYtYmExNi02MjgzNGQ2ZTgwYzMiLCJzaWQiOiJXQUNfMzc0MTc3NzE2NTEwNDU0ODAwOF8yODIxYjQ3My1mZTI0LTRjODYtYmExNi02MjgzNGQ2ZTgwYzMiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImFwcGN0eCI6Ijk3MjgyNDViYWZiNDQzYzE5NDQ4YWM1NzUwZDU0Y2I4O01NSW9kVHVrMnhacDRTTFIyUlQ3cU9HcTNsTT07RGVmYXVsdDs7MUIwM0M0MzEyRUY7VHJ1ZTs7OzE4NTUzMDA7MDJhOTE5YTItZTBhMi0wMDAxLTU4ZTgtZTllOTU4OWIxZDMyIiwiZmlkIjoiMTg3OTI4IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDkwMTQwMTIyLTg1MTYtMTFlMS04ZWZmLTQ5MzA0OTI0MDE5YiIsImF1ZCI6IndvcGkvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJuYmYiOiIxNzgwNDA0NjcxIiwiZXhwIjoiMTc4MDgzMzA3MSJ9%2Ejaj4g1hBlzjsPEt3gJa%5FByo5M%5F5n6kwS3fcQxvzz0pq5YwJiz3SKAUKLtr0B8KmJAxNDTX7cOS5NugZkfiSir5Xe5%5FU5v9RrgtgsSF5Zqo5biUHcYECQqg6Spygk23HdroqpAfbyN%2DLAJZqnRhJbeGlIcqeA16AAPDS6iBYeSAR0pWqiir9Y0Wlj9c3WXFKDZnhbaewpavt2yqE6rwEQnhSnDL9SvJpG8Ey%5FZbAXrwvwzOsAQfR9etHrATU6os9N%5FC8U65i%5Fbnuwxx68AKdgQ9q2UAcccEcuJ0ZFDeL6uRuk52gqU7t3jWnXAHrb6PlkP7YftUopteim7%5FR%5FaKPrHg&access_token_ttl=1780833071495&ObjectDataBlobId=%7Bdd4efa64-025b-01fb-1305-841dba89fa7d%7D%7B1%7D&usid=11a12db9-1a16-4bb3-a472-28a3e0abe59d&build=16.0.20014.41015&waccluster=PIE1&wdwacuseragent=MSWACONSync)
+
+## **Hypno** 
+
+"Greetings, you may call me Hypno. It is a pleasure to meet you. Please, pay a visit to our establishment The Red Strings Club. I am sure you will find something to your liking." 
+
+---
+
+As stated above, my name is Hypno. I provide all forms of services, so make sure to pay me a visit. For now, I wish you the best of luck, I am sure you will need it. 
+
+---
+
+#### Nature 
+
+Why don't you find out on your own?
