@@ -30,7 +30,7 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 <div>  
 <p>A cunning woman, faster than moonlight.</p>  
 <p>She lacks the power that some of her comrades boast she more than makes up for it with her wit.</p>  
-<p>She prides herself in the fastest takedown speed of [[98. Glossary/Moonlit Beasts|Moonlit Beasts]], as her and her soldiers focus on the offensive.</p>  
+<p>She prides herself in the fastest takedown speed of Beasts, as her and her soldiers focus on the offensive.</p>  
 </div>  
 </div>
 
@@ -63,7 +63,7 @@ As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wis
 <div>  
 <p>A blind warrior, who hasn't lost her edge yet.</p>  
 <p>Despite losing sight, neither her combat abilities nor her burning desire to protect have weakened.</p>  
-<p>She says her senses, particularly the ability to sense <span class="akl-suggested-link" data-target="<span class="akl-suggested-link" data-target="Mana" data-block="" data-use-relative="false" data-keyword-index="5">Mana</span>" data-block="" data-use-relative="false" data-keyword-index="5"><span class="akl-suggested-link" data-target="Mana" data-block="" data-use-relative="false" data-keyword-index="5">Mana</span></span> have been enhanced so greatly, that she doesn't need to rely on sight anymore. It is a well known fact she lost her vision in the line of duty</p>  
+<p>She says her senses, particularly the ability to sense [[ Mana ]] have been enhanced so greatly, that she doesn't need to rely on sight anymore. It is a well known fact she lost her vision in the line of duty</p>  
 </div>  
 </div>
 
