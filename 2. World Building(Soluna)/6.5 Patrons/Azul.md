@@ -1,3 +1,8 @@
+---
+feature: azul.jpg
+thumbnail: thumbnails/resized/101f77a9e76ed688fef3da0dae0eb843_86cf658e.webp
+---
+![[azul.jpg]]
 
 ## **Azul**
 

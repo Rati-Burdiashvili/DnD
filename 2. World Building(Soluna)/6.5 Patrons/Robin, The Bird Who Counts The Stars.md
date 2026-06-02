@@ -30,4 +30,4 @@ Elusive, Dominant, Impartial, Devoted, Apathetic, Celestial
 
 #### **Ideal**
 
-**
+*Count the stars.* One, two, three. Keep counting till every one snuffs out.
