@@ -18,7 +18,7 @@ Other than tiers, the sanctuary divides students by schools of magic(evocation, 
 
 ---
 
-Astral Sanctuary, despite its relations to the outside
+Astral Sanctuary, despite its relations and contributions to the outside, remains 
 
 
 ### **Overview of Research**
