@@ -2,7 +2,7 @@
 feature: astral sanctuary.jpg
 thumbnail: thumbnails/resized/3e1d16e190ef9dc89bd48b4940f16817_86cf658e.webp
 ---
-### **Overview of Education**
+### **Overview**
 
 ![[astral sanctuary.jpg]]
 
@@ -15,6 +15,10 @@ The children that have potential to become mages receive an evaluation first, es
 There are currently 6 tiers for students. The students may take a written and practical test to advance to next tier once every six months. Each tier teaches more and more advanced theory and practical application of magic, however you can already be considered graduated upon completion of the third tier, the rest is if you wish to climb to greater heights still within the sanctuary.
 
 Other than tiers, the sanctuary divides students by schools of magic(evocation, transmutation, etc.) based on their aptitude.
+
+---
+
+Astral Sanctuary, despite its relations to the outside
 
 
 ### **Overview of Research**

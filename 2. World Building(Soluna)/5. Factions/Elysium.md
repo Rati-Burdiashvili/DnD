@@ -14,6 +14,8 @@ The trials the explorers have to undertake are varied and unpredictable. Only 5 
 
 Some believe that the gate holds the answers to the questions everyone has regarding the state of the world, and that one of these answers, or even the gate itself will lead them to "paradise", hence why it is called Elysium.
 
+---
+
 But unfortunately as of late, the guild has fallen on hard times. There have been no trials for decades and in some people's eyes the guild's usefulness has been diminishing greatly. It is still kept on its with few people and its members hope, but any day it might be forced to close its operations under pressure from outside.
 
 
