@@ -6,13 +6,15 @@ thumbnail: thumbnails/resized/8df364b96c9ea4588382a395d9138286_86cf658e.webp
 
 ### **Overview**
 
-Elysium is the centerpiece of the modern world. It is a small group of people that has autonomous authority to act as they see fit. The Guild is in the possession of an artifact they simply call "The Gate". Its origins are unknown, but its purpose is clear. Once every while, at unclear intervals, it chooses those who can pass through it, and pass its trials.
+The guild is in the possession of an artifact they simply call "The Gate". Its origins are unknown, but its purpose is clear. Once every while, at unclear intervals, it chooses those who can pass through it, and pass its trials.
 
 The trials are so far theorized to be other worlds, or even fiction perhaps, there is not much to go on. The people who take on these trials, must see the trial to its end, and if they meet certain criteria during the exploration, a pocket dimension is then granted by the gate that can be visited anytime. These pocket dimensions serve as a way to acquire finite resources. Though it may not be much, it's still extremely helpful, considering these pockets reset on a biweekly basis.
 
 The trials the explorers have to undertake are varied and unpredictable. Only 5 people at most can take on a trial at a time. The gate will either choose specific people for it, or anyone who has been chosen prior can attempt it instead. Once inside, there is no way to return unless the exploration is seen through to the end.
 
-Some believe that the gate holds the answers to the questions everyone has regarding the state of the world, and that one of these answers, or even the gate itself will lead them to "paradise", hence why it is called Elysium. But for how true this is, only time will tell.
+Some believe that the gate holds the answers to the questions everyone has regarding the state of the world, and that one of these answers, or even the gate itself will lead them to "paradise", hence why it is called Elysium.
+
+But unfortunately as of late, the guild has fallen on hard times. There have been no trials for decades and in some people's eyes the guild's usefulness has been diminishing greatly. It is still kept on its with few people and its members hope, but any day it might be forced to close its operations under pressure from outside.
 
 
 ### **Explored Worlds**

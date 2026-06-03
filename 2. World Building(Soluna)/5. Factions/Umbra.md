@@ -10,6 +10,8 @@ There is no one true leader of Umbra. There are 6 commanders that share this res
 
 As for soldiers, Umbra doesn't accept anyone under the age of 20. And if one wishes to join, they need to prove their capabilities through a trial of combat and strategy, before they are even allowed a chance to fight the weeping night.
 
+Umbra can be said to be holding an iron grip on the modern world. Most of its members have strong opinions on how survival should be handled, and they lean towards a much stricter militaristic regime.
+
 ### **Commanders**
 
 #### **Ironclad**
