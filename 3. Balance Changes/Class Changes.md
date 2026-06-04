@@ -1,5 +1,10 @@
-- All full spellcasting classes can now make their 
+- All full spellcasting classes can now make their own custom spells at the following spell levels:
+	  - cantrip
+	  - 1st level
+	  - 3rd level
+	  - 5th level
+	  - 7th level
+	  - 9th level
 - Monks now gain additional Ki points equal to their wisdom modifier.
 - Monks can choose either dexterity or strength as their main stat. This cannot be changed after character creation.
 - Warlocks can choose to either scale with Intelligence or Charisma. This is decided upon character creation and cannot be changed afterwards.
-- 

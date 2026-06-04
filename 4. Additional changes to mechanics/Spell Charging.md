@@ -1,0 +1,3 @@
+*prerequisite: spellcasting, a spell that costs a spell slot*
+
+**Charging.** Instead of casting a spell normally, you may choose to charge it instead. Charging counts as concentrating on a spell. Once you begin charging, your speed becomes 0 and you lose your reaction until the start of your next turn. At the start of your next turn, charging will be complete and the spell will be cast. You are still able to act that turn fully. Charging can grant one
