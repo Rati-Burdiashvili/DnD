@@ -46,22 +46,33 @@ Melee weapons are separated into different "weapon types."
 
 #### **Daggers**
 
-| Type   | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Dagger |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-|        |       |              |              |        |        |            |
+| Type            | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| --------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Dagger          |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Parrying Dagger |       |              |              |        |        |            |
+| Misericorde     |       |              |              |        |        |            |
+| Main-Gauche     |       |              |              |        |        |            |
+| Stilleto        |       |              |              |        |        |            |
+| Dirk            |       |              |              |        |        |            |
 
 #### **Spears**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Short Spear |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Spear       |       |              |              |        |        |            |
+| Partisan    |       |              |              |        |        |            |
+| Pike        |       |              |              |        |        |            |
+|             |       |              |              |        |        |            |
 
 #### **Great Weapons**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type       | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ---------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Zweihander |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Greatsword |       |              |              |        |        |            |
+| Great Mace |       |              |              |        |        |            |
+|            |       |              |              |        |        |            |
 
 #### **Fist Weapons**
 
