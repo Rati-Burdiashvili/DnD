@@ -12,70 +12,70 @@
 | ----------- | ----- | ------------------ | ------------ | ------ | -------------------- |
 | Short Sword | 10    | STR: 16<br>DEX: 18 | 1d6 slashing | 2 lb   | Simple               |
 | Longsword   | 15    | STR: 18<br>DEX: 18 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
-| Broadsword  | 15    | STR: 18<br>DEX: 12 | 1d8 slashing | 4 lb   | Martial<br>Versatile |
+| Broadsword  | 15    | STR: 20<br>DEX: 14 | 1d8 slashing | 4 lb   | Martial<br>Versatile |
 **Square off.** Your speed reduced by half as you enter a stance.
 
 #### **Thrusting Swords**
 
 | Type        | Price | Scaling            | Damage       | Weight | Properties         |
 | ----------- | ----- | ------------------ | ------------ | ------ | ------------------ |
-| Rapier      | 25    | STR: 10<br>DEX: 18 | 1d8 piercing | 2 lb   | Martial<br>Finesse |
-| Estoc       | 25    | STR: 12<br>DEX: 16 | 1d8 piercing | 3 lb   | Martial<br>Finesse |
-| Mailbreaker | 15    | STR: 10<br>DEX: 14 | 1d6 piercing | 1 lb   | Simple             |
+| Rapier      | 25    | STR: 12<br>DEX: 20 | 1d8 piercing | 2 lb   | Martial<br>Finesse |
+| Estoc       | 25    | STR: 14<br>DEX: 18 | 1d8 piercing | 3 lb   | Martial<br>Finesse |
+| Mailbreaker | 15    | STR: 12<br>DEX: 16 | 1d6 piercing | 1 lb   | Simple             |
 
 #### **Curved Swords**
 
 | Type     | Price | Scaling            | Damage       | Weight | Properties         |
 | -------- | ----- | ------------------ | ------------ | ------ | ------------------ |
-| Scimitar | 10    | STR: 12<br>DEX: 18 | 1d8 slashing | 2 lb   | Martial<br>Finesse |
-| Falchion | 15    | STR: 18<br>DEX: 12 | 1d8 slashing | 3 lb   | Martial<br>Finesse |
-| Shotel   | 10    | STR: 14<br>DEX: 14 | 1d6 slashing | 2 lb   | Simple             |
+| Scimitar | 10    | STR: 14<br>DEX: 20 | 1d8 slashing | 2 lb   | Martial<br>Finesse |
+| Falchion | 15    | STR: 20<br>DEX: 14 | 1d8 slashing | 3 lb   | Martial<br>Finesse |
+| Shotel   | 10    | STR: 16<br>DEX: 16 | 1d6 slashing | 2 lb   | Simple             |
 
 #### **Axes**
 
 | Type       | Price | Scaling            | Damage       | Weight | Properties           |
 | ---------- | ----- | ------------------ | ------------ | ------ | -------------------- |
-| Hand Axe   | 5     | STR: 14<br>DEX: 14 | 1d6 slashing | 1 lb   | Simple               |
-| Battle Axe | 15    | STR: 16<br>DEX: 16 | 1d8 slashing | 2 lb   | Martial<br>Versatile |
-| War Axe    | 15    | STR: 18<br>DEX: 12 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
+| Hand Axe   | 5     | STR: 16<br>DEX: 16 | 1d6 slashing | 1 lb   | Simple               |
+| Battle Axe | 15    | STR: 18<br>DEX: 18 | 1d8 slashing | 2 lb   | Martial<br>Versatile |
+| War Axe    | 15    | STR: 20<br>DEX: 14 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
 
 #### **Maces**
 
 | Type        | Price | Scaling            | Damage                                | Weight | Properties           |
 | ----------- | ----- | ------------------ | ------------------------------------- | ------ | -------------------- |
-| Mace        | 15    | STR: 16<br>DEX: 16 | 1d8 bludgeoning                       | 3 lb   | Martial<br>Versatile |
-| Morningstar | 15    | STR: 16<br>DEX: 14 | 1d4 bludgeoning<br>1d4 piercing       | 3 lb   | Martial<br>Versatile |
-| Warpick     | 20    | STR: 18<br>DEX: 12 | 1d8 bludgeoning<br>or<br>1d8 piercing | 4 lb   | Martial<br>Versatile |
+| Mace        | 15    | STR: 18<br>DEX: 18 | 1d8 bludgeoning                       | 3 lb   | Martial<br>Versatile |
+| Morningstar | 15    | STR: 18<br>DEX: 16 | 1d4 bludgeoning<br>1d4 piercing       | 3 lb   | Martial<br>Versatile |
+| Warpick     | 20    | STR: 20<br>DEX: 14 | 1d8 bludgeoning<br>or<br>1d8 piercing | 4 lb   | Martial<br>Versatile |
 
 #### **Daggers**
 
 | Type            | Price | Scaling            | Damage       | Weight | Properties       |
 | --------------- | ----- | ------------------ | ------------ | ------ | ---------------- |
-| Dagger          | 2     | STR: 10<br>DEX: 16 | 1d4 piercing | 1 lb   | Simple<br>Thrown |
-| Parrying Dagger | 10    | STR: 10<br>DEX: 14 | 1d4 piercing | 1 lb   | Simple           |
-| Misericorde     | 10    | STR: 10<br>DEX: 18 | 1d4 piercing | 1 lb   | Simple           |
-| Dirk            | 15    | STR: 10<br>DEX: 20 | 1d4 piercing | 1 lb   | Simple           |
+| Dagger          | 2     | STR: 12<br>DEX: 18 | 1d4 piercing | 1 lb   | Simple<br>Thrown |
+| Parrying Dagger | 10    | STR: 12<br>DEX: 16 | 1d4 piercing | 1 lb   | Simple           |
+| Misericorde     | 10    | STR: 12<br>DEX: 20 | 1d4 piercing | 1 lb   | Simple           |
+| Dirk            | 15    | STR: 14<br>DEX: 20 | 1d4 piercing | 1 lb   | Simple           |
 
 #### **Spears**
 
 | Type     | Price | Scaling             | Damage       | Weight | Properties           |
 | -------- | ----- | ------------------- | ------------ | ------ | -------------------- |
-| Javelin  | 2     | STR: 16 <br>DEX: 12 | 1d6 piercing | 2 lb   | Simple<br>Thrown     |
-| Spear    | 5     | STR: 16 <br>DEX: 16 | 1d6 piercing | 3 lb   | Simple<br>Versatile  |
-| Partisan | 10    | STR: 20<br>DEX: 10  | 1d8 piercing | 4 lb   | Martial<br>Versatile |
-| Pike     | 10    | STR: 10<br>DEX: 20  | 1d8 piercing | 3 lb   | Martial<br>Versatile |
+| Javelin  | 2     | STR: 18 <br>DEX: 14 | 1d6 piercing | 2 lb   | Simple<br>Thrown     |
+| Spear    | 5     | STR: 18 <br>DEX: 18 | 1d6 piercing | 3 lb   | Simple<br>Versatile  |
+| Partisan | 10    | STR: 20<br>DEX: 14  | 1d8 piercing | 4 lb   | Martial<br>Versatile |
+| Pike     | 10    | STR: 14<br>DEX: 20  | 1d8 piercing | 3 lb   | Martial<br>Versatile |
 
 
 #### **Great Weapons**
 
 | Type          | Price | Scaling            | Damage           | Weight | Properties                     |
 | ------------- | ----- | ------------------ | ---------------- | ------ | ------------------------------ |
-| Zweihander    | 40    | STR: 16<br>DEX: 18 | 2d6 slashing     | 6 lb   | Martial<br>Heavy<br>Two-Handed |
-| Greatsword    | 30    | STR: 20<br>DEX: 10 | 1d12 slashing    | 8 lb   | Martial<br>Heavy<br>Two-Handed |
-| Great Mace    | 40    | STR: 18<br>DEX: 16 | 2d6 bludgeoning  | 6 lb   | Martial<br>Heavy<br>Two-Handed |
-| Battle hammer | 30    | STR: 20<br>DEX: 10 | 1d12 bludgeoning | 8 lb   | Martial<br>Heavy<br>Two-Handed |
-| Great Axe     | 40    | STR: 18<br>DEX: 16 | 2d6 slashing     | 6 lb   | Martial<br>Heavy<br>Two-Handed |
-| Longshaft Axe | 30    | STR: 20<br>DEX: 10 | 1d12 slasing     | 8 lb   | Martial<br>Heavy<br>Two-Handed |
+| Zweihander    | 40    | STR: 18<br>DEX: 20 | 2d6 slashing     | 6 lb   | Martial<br>Heavy<br>Two-Handed |
+| Greatsword    | 30    | STR: 20<br>DEX: 14 | 1d12 slashing    | 8 lb   | Martial<br>Heavy<br>Two-Handed |
+| Great Mace    | 40    | STR: 20<br>DEX: 18 | 2d6 bludgeoning  | 6 lb   | Martial<br>Heavy<br>Two-Handed |
+| Battle hammer | 30    | STR: 20<br>DEX: 14 | 1d12 bludgeoning | 8 lb   | Martial<br>Heavy<br>Two-Handed |
+| Great Axe     | 40    | STR: 20<br>DEX: 18 | 2d6 slashing     | 6 lb   | Martial<br>Heavy<br>Two-Handed |
+| Longshaft Axe | 30    | STR: 20<br>DEX: 14 | 1d12 slasing     | 8 lb   | Martial<br>Heavy<br>Two-Handed |
 
 #### **Fist Weapons**
 
@@ -89,8 +89,8 @@
 
 | Type               | Price | Scaling            | Damage                          | Weight | Properties |
 | ------------------ | ----- | ------------------ | ------------------------------- | ------ | ---------- |
-| Flail              | 15    | STR: 16<br>DEX: 16 | 1d8 bludgeoning                 | 2 lb   | Martial    |
-| Morning Star Flail | 20    | STR: 16<br>DEX: 16 | 1d4 bludgeoning<br>1d4 piercing | 3 lb   | Martial    |
+| Flail              | 15    | STR: 18<br>DEX: 18 | 1d8 bludgeoning                 | 2 lb   | Martial    |
+| Morning Star Flail | 20    | STR: 18<br>DEX: 18 | 1d4 bludgeoning<br>1d4 piercing | 3 lb   | Martial    |
 
 
 #### **Polearm Weapons**
