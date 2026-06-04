@@ -1,16 +1,10 @@
 *prerequisite: spellcasting, a spell that costs a spell slot*
 
 **Charging.** Instead of casting a spell normally, you may choose to charge it instead. 
+- Charging requires a full time action.
 - Charging counts as concentrating on a spell.
-- Once you begin charging, your speed becomes 0 and you lose your reaction until the start of your next turn.
+- Once you begin charging, your speed becomes 0 and you lose your reaction until the end of your next turn.
 - You can only charge spells that require an action or bonus action to cast.
 - You cannot charge spells that require a reaction to cast, or have longer casting times than one turn. You also cannot charge cantrips.
-- You are still able to act that turn fully. 
-
-Charging can grant one of the following effects:
-- **Upcasting.** A charged spell can count as an upcasted spell, without consuming additional or higher level spell slots. If by charging a spell, you would be upcasting it to a level, of which you don't have a spell slot yet, the charging will be complete at the end of your next turn, rather than the start of it, effectively requiring two turns to cast.
-- **Larger Radius.** You may increase the spells radius if it has one.
-- **Longer Range.** You may increase the range of the spell by 50%.
-- **Additional targets.** If it is a non damaging spell, you may target one more creature. If it is a spell with a save DC, the secondary target will have to succeed a check of your spellcasting DC - 3, instead of just your spellcasting DC.
-- **Additional Projectiles.** If the spell has multiple projectiles, charging it will add one more projectile.
-- **Additional Damage.** If it is a single target damaging spell, the damage is increased by 1 die.
+- Charging a spell upcasts it by one level.
+- If charging a spell would upcast it to a level of which you don't have a spell slot you, you need to succeed a save DC equal to your spell sav
