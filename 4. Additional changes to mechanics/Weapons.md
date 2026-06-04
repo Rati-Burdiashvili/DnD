@@ -68,14 +68,13 @@ Melee weapons are separated into different "weapon types."
 | Greatsword    |       | STR: 20<br>DEX: 10 |        |        |            |
 | Great Mace    |       | STR: 18<br>DEX: 16 |        |        |            |
 | Battle hammer |       | STR: 20<br>DEX: 10 |        |        |            |
-| Great Axe     |       | STR: 18<br>DEX: 14 |        |        |            |
+| Great Axe     |       | STR: 18<br>DEX: 16 |        |        |            |
 | Longshaft Axe |       | STR: 20<br>DEX: 10 |        |        |            |
 
 #### **Fist Weapons**
 
 | Type    | Price | Scaling      | Damage | Weight | Properties |
 | ------- | ----- | ------------ | ------ | ------ | ---------- |
-| Claws   |       | STR:<br>DEX: |        |        |            |
 | Katar   |       | STR:<br>DEX: |        |        |            |
 | Pata    |       | STR:<br>DEX: |        |        |            |
 | Caestus |       | STR:<br>DEX: |        |        |            |
