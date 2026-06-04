@@ -19,3 +19,11 @@ It is believed that Fortuna resides over the cycle of life and death. Souls of t
 Fortuna has many followers in the new world, for some this very faith helps them move forward with everyday life. A new burial tradition has been created due to the new conditions.
 
 The deceased are placed in coffins on a shore, where their loved ones say their final goodbyes and push them out to the ocean. The ocean carries them towards the massive chasm, believed to be returning them to her embrace.
+
+---
+
+As much as faith has been able to bring hope for people, day by day, it is evident that the number of those who still believe in Fortuna dwindles.
+
+For some, they think they have been abandoned and forced to fend for themselves.
+Others think this is divine punishment.
+While many just don't believe in her existence at all.
