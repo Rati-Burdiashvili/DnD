@@ -81,30 +81,30 @@ Melee weapons are separated into different "weapon types."
 
 #### **Flails**
 
-| Type               | Price | Scaling            | Damage | Weight | Properties |
-| ------------------ | ----- | ------------------ | ------ | ------ | ---------- |
-| Flail              |       | STR: 16<br>DEX: 16 |        |        |            |
-| Morning Star Flail |       | STR: 16<br>DEX: 16 |        |        |            |
+| Type               | Price | Scaling            | Damage                          | Weight | Properties |
+| ------------------ | ----- | ------------------ | ------------------------------- | ------ | ---------- |
+| Flail              |       | STR: 16<br>DEX: 16 | 1d8 bludgeoning                 |        |            |
+| Morning Star Flail |       | STR: 16<br>DEX: 16 | 1d4 bludgeoning<br>1d4 piercing |        |            |
 
 
 #### **Polearm Weapons**
 
-| Type         | Price | Scaling      | Damage | Weight | Properties |
-| ------------ | ----- | ------------ | ------ | ------ | ---------- |
-| Quarterstaff |       | STR:<br>DEX: |        |        |            |
-| Glaive       |       | STR:<br>DEX: |        |        |            |
-| Halberd      |       | STR:<br>DEX: |        |        |            |
-| Lucerne      |       | STR:<br>DEX: |        |        |            |
+| Type         | Price | Scaling            | Damage                               | Weight | Properties |
+| ------------ | ----- | ------------------ | ------------------------------------ | ------ | ---------- |
+| Quarterstaff |       | STR: 14<br>DEX: 14 | 1d6 bludgeoning                      |        |            |
+| Glaive       |       | STR: 12<br>DEX: 18 | 1d10 slashing                        |        |            |
+| Halberd      |       | STR: 16<br>DEX: 16 | 1d10 slashing<br>or<br>1d10 piercing |        |            |
+| Lucerne      |       | STR: 18<br>DEX: 12 | 1d10 bludgeoning                     |        |            |
 
 #### **Bows**
 
-| Type          | Price | Scaling      | Damage | Weight | Properties |
-| ------------- | ----- | ------------ | ------ | ------ | ---------- |
-| Short Bow     |       | STR:<br>DEX: |        |        |            |
-| Long Bow      |       | STR:<br>DEX: |        |        |            |
-| Composite Bow |       | STR:<br>DEX: |        |        |            |
-| Great Bow     |       | STR:<br>DEX: |        |        |            |
-| Compound Bow  |       | STR:<br>DEX: |        |        |            |
+| Type          | Price | Scaling            | Damage        | Weight | Properties |
+| ------------- | ----- | ------------------ | ------------- | ------ | ---------- |
+| Short Bow     |       | STR: 10<br>DEX: 16 | 1d6 piercing  |        |            |
+| Long Bow      |       | STR: 16<br>DEX: 16 | 1d8 piercing  |        |            |
+| Composite Bow |       | STR: 10<br>DEX: 20 | 1d10 piercing |        |            |
+| Compound Bow  |       | STR: 16<br>DEX: 18 | 1d10 piercing |        |            |
+| Great Bow     |       | STR: 18<br>DEX: 14 | 1d12 piercing |        |            |
 
 #### **Crossbows**
 
