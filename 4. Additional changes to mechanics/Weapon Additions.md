@@ -11,19 +11,13 @@ There are two types of firearms: standard and crystal.
 | Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
 | Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
 The cost of each firearms bullets/magazines is as follows(each tier increases the damage die tier by one):
-**Common.**
-- Handgun  - 2gp
-- Rifle    - 3gp
-- Shotgun  - 0.2gp
-- Sniper   - 0.5gp
 
-
-|         | Common |     |     |
-| ------- | ------ | --- | --- |
-| Handgun |        |     |     |
-| Rifle   |        |     |     |
-| Shotgun |        |     |     |
-| Sniper  |        |     |     |
+|         | Common | Uncommon | Rare |
+| ------- | ------ | -------- | ---- |
+| Handgun | 2gp    | 10gp     | 30gp |
+| Rifle   | 3gp    | 15gp     | 60gp |
+| Shotgun | 0.2    |          |      |
+| Sniper  | 0.5    |          |      |
 
 
 Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
