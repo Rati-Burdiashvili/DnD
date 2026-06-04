@@ -52,39 +52,39 @@ Melee weapons are separated into different "weapon types."
 
 #### **Spears**
 
-| Type     | Price | Scaling             | Damage | Weight | Properties |
-| -------- | ----- | ------------------- | ------ | ------ | ---------- |
-| Javelin  |       | STR: 18 <br>DEX: 12 |        |        |            |
-| Spear    |       | STR: 16 <br>DEX: 16 |        |        |            |
-| Partisan |       | STR: 20<br>DEX: 10  |        |        |            |
-| Pike     |       | STR: 10<br>DEX: 20  |        |        |            |
+| Type     | Price | Scaling             | Damage       | Weight | Properties |
+| -------- | ----- | ------------------- | ------------ | ------ | ---------- |
+| Javelin  |       | STR: 18 <br>DEX: 12 | 1d6 piercing |        |            |
+| Spear    |       | STR: 16 <br>DEX: 16 | 1d6 piercing |        |            |
+| Partisan |       | STR: 20<br>DEX: 10  | 1d8 piercing |        |            |
+| Pike     |       | STR: 10<br>DEX: 20  | 1d8 piercing |        |            |
 
 
 #### **Great Weapons**
 
-| Type          | Price | Scaling            | Damage | Weight | Properties |
-| ------------- | ----- | ------------------ | ------ | ------ | ---------- |
-| Zweihander    |       | STR: 16<br>DEX: 18 |        |        |            |
-| Greatsword    |       | STR: 20<br>DEX: 10 |        |        |            |
-| Great Mace    |       | STR: 18<br>DEX: 16 |        |        |            |
-| Battle hammer |       | STR: 20<br>DEX: 10 |        |        |            |
-| Great Axe     |       | STR: 18<br>DEX: 16 |        |        |            |
-| Longshaft Axe |       | STR: 20<br>DEX: 10 |        |        |            |
+| Type          | Price | Scaling            | Damage           | Weight | Properties |
+| ------------- | ----- | ------------------ | ---------------- | ------ | ---------- |
+| Zweihander    |       | STR: 16<br>DEX: 18 | 2d6 slashing     |        |            |
+| Greatsword    |       | STR: 20<br>DEX: 10 | 1d12 slashing    |        |            |
+| Great Mace    |       | STR: 18<br>DEX: 16 | 2d6 bludgeoning  |        |            |
+| Battle hammer |       | STR: 20<br>DEX: 10 | 1d12 bludgeoning |        |            |
+| Great Axe     |       | STR: 18<br>DEX: 16 | 2d6 slashing     |        |            |
+| Longshaft Axe |       | STR: 20<br>DEX: 10 | 1d12 slasing     |        |            |
 
 #### **Fist Weapons**
 
-| Type    | Price | Scaling      | Damage | Weight | Properties |
-| ------- | ----- | ------------ | ------ | ------ | ---------- |
-| Katar   |       | STR:<br>DEX: |        |        |            |
-| Pata    |       | STR:<br>DEX: |        |        |            |
-| Caestus |       | STR:<br>DEX: |        |        |            |
+| Type    | Price | Damage          | Weight | Properties |
+| ------- | ----- | --------------- | ------ | ---------- |
+| Katar   |       | 1d6 slashing    |        |            |
+| Pata    |       | 1d6 piercing    |        |            |
+| Caestus |       | 1d6 bludgeoning |        |            |
 
 #### **Flails**
 
-| Type               | Price | Scaling      | Damage | Weight | Properties |
-| ------------------ | ----- | ------------ | ------ | ------ | ---------- |
-| Flail              |       | STR:<br>DEX: |        |        |            |
-| Morning Star Flail |       | STR:<br>DEX: |        |        |            |
+| Type               | Price | Scaling            | Damage | Weight | Properties |
+| ------------------ | ----- | ------------------ | ------ | ------ | ---------- |
+| Flail              |       | STR: 16<br>DEX: 16 |        |        |            |
+| Morning Star Flail |       | STR: 16<br>DEX: 16 |        |        |            |
 
 
 #### **Polearm Weapons**
