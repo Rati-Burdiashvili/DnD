@@ -13,7 +13,8 @@
 | Short Sword | 10    | STR: 16<br>DEX: 18 | 1d6 slashing | 2 lb   | Simple               |
 | Longsword   | 15    | STR: 18<br>DEX: 18 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
 | Broadsword  | 15    | STR: 20<br>DEX: 14 | 1d8 slashing | 4 lb   | Martial<br>Versatile |
-**Square off.** Your speed reduced by half as you enter a stance.
+**Square off.** Your speed reduced by half as you enter a stance. Afterwards you may choose to perform a slashing attack or a piercing attack. The slash does 1d10 damage and 1.5x posture damage. The pierce does 1d10 damage and 2.0x posture damage.
+**Spinning Sl**
 
 #### **Thrusting Swords**
 
@@ -97,29 +98,29 @@
 
 | Type         | Price | Scaling            | Damage                               | Weight | Properties          |
 | ------------ | ----- | ------------------ | ------------------------------------ | ------ | ------------------- |
-| Quarterstaff | 5     | STR: 14<br>DEX: 14 | 1d6 bludgeoning                      | 4 lb   | Simple<br>Versatile |
-| Glaive       | 30    | STR: 12<br>DEX: 18 | 1d10 slashing                        | 6 lb   | Martial<br>Reach    |
-| Halberd      | 30    | STR: 16<br>DEX: 16 | 1d10 slashing<br>or<br>1d10 piercing | 7 lb   | Martial<br>Reach    |
-| Lucerne      | 30    | STR: 18<br>DEX: 12 | 1d10 bludgeoning                     | 8 lb   | Martial<br>Reach    |
+| Quarterstaff | 5     | STR: 18<br>DEX: 18 | 1d6 bludgeoning                      | 4 lb   | Simple<br>Versatile |
+| Glaive       | 30    | STR: 14<br>DEX: 20 | 1d10 slashing                        | 6 lb   | Martial<br>Reach    |
+| Halberd      | 30    | STR: 18<br>DEX: 18 | 1d10 slashing<br>or<br>1d10 piercing | 7 lb   | Martial<br>Reach    |
+| Lucerne      | 30    | STR: 20<br>DEX: 14 | 1d10 bludgeoning                     | 8 lb   | Martial<br>Reach    |
 
 #### **Bows**
 
 | Type          | Price | Scaling            | Damage        | Weight | Properties                   |
 | ------------- | ----- | ------------------ | ------------- | ------ | ---------------------------- |
-| Short Bow     | 20    | STR: 10<br>DEX: 16 | 1d6 piercing  | 2 lb   | Ammunition 45/90<br>Simple   |
-| Long Bow      | 30    | STR: 16<br>DEX: 16 | 1d8 piercing  | 2 lb   | Ammunition 60/120<br>Martial |
-| Composite Bow | 40    | STR: 10<br>DEX: 20 | 1d10 piercing | 3 lb   | Ammunition 90/150<br>Martial |
-| Compound Bow  | 50    | STR: 16<br>DEX: 18 | 1d10 piercing | 3 lb   | Ammunition 60/120<br>Martial |
-| Great Bow     | 30    | STR: 18<br>DEX: 14 | 1d12 piercing | 4 lb   | Ammunition 45/70<br>Martial  |
+| Short Bow     | 20    | STR: 12<br>DEX: 18 | 1d6 piercing  | 2 lb   | Ammunition 45/90<br>Simple   |
+| Long Bow      | 30    | STR: 18<br>DEX: 18 | 1d8 piercing  | 2 lb   | Ammunition 60/120<br>Martial |
+| Composite Bow | 40    | STR: 14<br>DEX: 20 | 1d10 piercing | 3 lb   | Ammunition 90/150<br>Martial |
+| Compound Bow  | 50    | STR: 18<br>DEX: 20 | 1d10 piercing | 3 lb   | Ammunition 60/120<br>Martial |
+| Great Bow     | 30    | STR: 20<br>DEX: 16 | 1d12 piercing | 4 lb   | Ammunition 45/70<br>Martial  |
 
 #### **Crossbows**
 
 | Type               | Price | Scaling            | Damage        | Weight | Properties                   |
 | ------------------ | ----- | ------------------ | ------------- | ------ | ---------------------------- |
-| Light Crossbow     | 20    | STR: 10<br>DEX: 18 | 1d8 piercing  | 2 lb   | Ammunition 60/80<br>Simple   |
-| Medium Crosssbow   | 30    | STR: 12<br>DEX: 16 | 1d10 piercing | 3 lb   | Ammunition 70/90<br>Martial  |
-| Heavy Crossbow     | 40    | STR: 14<br>DEX: 16 | 1d12 piercing | 4 lb   | Ammunition 90/150<br>Martial |
-| Repeating Crossbow | 50    | STR: 10<br>DEX: 18 | 3d4 piercing  | 2 lb   | Ammuntion 45/60<br>Martial   |
+| Light Crossbow     | 20    | STR: 10<br>DEX: 20 | 1d8 piercing  | 2 lb   | Ammunition 60/80<br>Simple   |
+| Medium Crosssbow   | 30    | STR: 10<br>DEX: 20 | 1d10 piercing | 3 lb   | Ammunition 70/90<br>Martial  |
+| Heavy Crossbow     | 40    | STR: 10<br>DEX: 20 | 1d12 piercing | 4 lb   | Ammunition 90/150<br>Martial |
+| Repeating Crossbow | 50    | STR: 10<br>DEX: 20 | 3d4 piercing  | 2 lb   | Ammuntion 45/60<br>Martial   |
 
 #### **Shields**
 
