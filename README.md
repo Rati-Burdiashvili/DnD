@@ -19,7 +19,7 @@ https://git-scm.com/install/
 1. Type ctrl + P
 2. In the "terminal" that pops up, type in `git clone` and press enter
 3. Paste the following:
-	`https://github.com/Rati-Burdiashvili/DnD/tree/main`
+   `https://github.com/Rati-Burdiashvili/DnD`
 4. It will then prompt you to type an empty directory, type in any name you want, such as Nexus. Anything works
 
 #### **Step 4: Git**
