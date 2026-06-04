@@ -1,4 +1,10 @@
-Melee weapons are separated into different "weapon types."
+# **Properties**
+
+**Finesse.** Weapons with this property can flip their scaling.
+**Heavy.** Weapons with this property need 15 strength to be wielded. If this requirement isn't met, all attacks have disadvantage.
+**Unarmed.** Weapons with this property have no cap on their scaling fr fr.
+
+# **Weapon Types**
 
 #### **Straight Swords**
 
@@ -103,23 +109,27 @@ Melee weapons are separated into different "weapon types."
 | Short Bow     | 20    | STR: 10<br>DEX: 16 | 1d6 piercing  | 2 lb   | Ammunition 45/90<br>Simple   |
 | Long Bow      | 30    | STR: 16<br>DEX: 16 | 1d8 piercing  | 2 lb   | Ammunition 60/120<br>Martial |
 | Composite Bow | 40    | STR: 10<br>DEX: 20 | 1d10 piercing | 3 lb   | Ammunition 90/150<br>Martial |
-| Compound Bow  | 50    | STR: 16<br>DEX: 18 | 1d10 piercing | 3 lb   | Ammunition 60/120            |
-| Great Bow     | 30    | STR: 18<br>DEX: 14 | 1d12 piercing | 4 lb   | Ammunition 45/70             |
+| Compound Bow  | 50    | STR: 16<br>DEX: 18 | 1d10 piercing | 3 lb   | Ammunition 60/120<br>Martial |
+| Great Bow     | 30    | STR: 18<br>DEX: 14 | 1d12 piercing | 4 lb   | Ammunition 45/70<br>Martial  |
 
 #### **Crossbows**
 
-| Type               | Price | Scaling            | Damage        | Weight | Properties       |
-| ------------------ | ----- | ------------------ | ------------- | ------ | ---------------- |
-| Light Crossbow     | 20    | STR: 10<br>DEX: 18 | 1d8 piercing  | 2 lb   | Ammunition 60/80 |
-| Medium Crosssbow   | 30    | STR: 12<br>DEX: 16 | 1d10 piercing | 3 lb   | Ammunition       |
-| Heavy Crossbow     | 40    | STR: 14<br>DEX: 16 | 1d12 piercing | 4 lb   |                  |
-| Repeating Crossbow | 50    | STR: 10<br>DEX: 18 | 3d4 piercing  | 2 lb   |                  |
+| Type               | Price | Scaling            | Damage        | Weight | Properties                   |
+| ------------------ | ----- | ------------------ | ------------- | ------ | ---------------------------- |
+| Light Crossbow     | 20    | STR: 10<br>DEX: 18 | 1d8 piercing  | 2 lb   | Ammunition 60/80<br>Simple   |
+| Medium Crosssbow   | 30    | STR: 12<br>DEX: 16 | 1d10 piercing | 3 lb   | Ammunition 70/90<br>Martial  |
+| Heavy Crossbow     | 40    | STR: 14<br>DEX: 16 | 1d12 piercing | 4 lb   | Ammunition 90/150<br>Martial |
+| Repeating Crossbow | 50    | STR: 10<br>DEX: 18 | 3d4 piercing  | 2 lb   | Ammuntion 45/60<br>Martial   |
 
 #### **Shields**
 
-| Type          | Price | Weight | Properties |
-| ------------- | ----- | ------ | ---------- |
-| Buckler       | 10    | 3 lb   |            |
-| Heater Shield | 15    | 4 lb   |            |
-| Tower Shield  | 20    | 6 lb   |            |
+| Type          | Price | Weight | Properties     |
+| ------------- | ----- | ------ | -------------- |
+| Buckler       | 10    | 3 lb   | Armor          |
+| Heater Shield | 15    | 4 lb   | Armor          |
+| Tower Shield  | 20    | 6 lb   | Armor<br>Heavy |
 
+
+# **Weapon Arts**
+
+Each weapon type has several weapon arts available for use(some are restricted to a specific w)
