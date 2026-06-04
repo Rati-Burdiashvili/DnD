@@ -128,8 +128,3 @@
 | Buckler       | 10    | 3 lb   | Armor          |
 | Heater Shield | 15    | 4 lb   | Armor          |
 | Tower Shield  | 20    | 6 lb   | Armor<br>Heavy |
-
-
-# **Weapon Arts**
-
-Each weapon type has several weapon arts available for use(some are restricted to a specific weapon).
