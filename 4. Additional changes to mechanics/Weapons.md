@@ -10,10 +10,10 @@
 
 | Type        | Price | Scaling            | Damage       | Weight | Properties           |
 | ----------- | ----- | ------------------ | ------------ | ------ | -------------------- |
-| Short Sword | 10    | STR: 14<br>DEX: 16 | 1d6 slashing | 2 lb   | Simple               |
-| Longsword   | 15    | STR: 16<br>DEX: 16 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
+| Short Sword | 10    | STR: 16<br>DEX: 18 | 1d6 slashing | 2 lb   | Simple               |
+| Longsword   | 15    | STR: 18<br>DEX: 18 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
 | Broadsword  | 15    | STR: 18<br>DEX: 12 | 1d8 slashing | 4 lb   | Martial<br>Versatile |
-
+**Square off.** Your speed reduced by half as you enter a stance.
 
 #### **Thrusting Swords**
 
