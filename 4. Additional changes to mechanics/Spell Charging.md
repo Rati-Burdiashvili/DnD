@@ -12,4 +12,4 @@ Charging can grant one of the following effects:
 - **Upcasting.** A charged spell can count as an upcasted spell, without consuming additional or higher level spell slots. If by charging a spell, you would be upcasting it to a level, of which you don't have a spell slot yet, the charging will be complete at the end of your next turn, rather than the start of it, effectively requiring two turns to cast.
 - **Larger Radius.** You may increase the spells radius if it has one.
 - **Longer Range.** You may increase the range of the spell by 50%.
-- ****
+- **Additional targets.** If it is a non damaging spell, you may target one more creature.
