@@ -132,4 +132,4 @@
 
 # **Weapon Arts**
 
-Each weapon type has several weapon arts available for use(some are restricted to a specific w)
+Each weapon type has several weapon arts available for use(some are restricted to a specific weapon).
