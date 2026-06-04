@@ -1,3 +1,4 @@
+- All full spellcasting classes can now make their 
 - Monks now gain additional Ki points equal to their wisdom modifier.
 - Monks can choose either dexterity or strength as their main stat. This cannot be changed after character creation.
 - Warlocks can choose to either scale with Intelligence or Charisma. This is decided upon character creation and cannot be changed afterwards.
