@@ -2,38 +2,36 @@ Melee weapons are separated into different "weapon types."
 
 #### **Straight Swords**
 
-| Type         | Price | Requirements       | Scaling            | Damage | Weight | Properties |
-| ------------ | ----- | ------------------ | ------------------ | ------ | ------ | ---------- |
-| Short Sword  |       | STR: 12<br>DEX: 12 | STR: 16<br>DEX: 16 |        |        |            |
-| Longsword    |       | STR: 14<br>DEX: 12 | STR: 14<br>DEX: 16 |        |        |            |
-| Broadsword   |       | STR: 14<br>DEX: 12 | STR: 18<br>DEX: 12 |        |        |            |
+| Type        | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
+| Short Sword |       | STR: 11<br>DEX: 11 | STR: 16<br>DEX: 16 | 1d6 slashing |        |            |
+| Longsword   |       | STR: 13<br>DEX: 11 | STR: 14<br>DEX: 16 | 1d8 slashing |        |            |
+| Broadsword  |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
 
 
 #### **Thrusting Swords**
 
-| Type        | Price | Requirements       | Scaling            | Damage | Weight | Properties |
-| ----------- | ----- | ------------------ | ------------------ | ------ | ------ | ---------- |
-| Rapier      |       | STR: 10<br>DEX: 14 | STR: 10<br>DEX: 20 |        |        |            |
-| Estoc       |       | STR: 10<br>DEX: 14 | STR: 12<br>DEX: 1  |        |        |            |
-| Mailbreaker |       | STR: 10<br>DEX: 16 | STR:<br>DEX:       |        |        |            |
+| Type        | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
+| Rapier      |       | STR: 10<br>DEX: 14 | STR: 10<br>DEX: 20 | 1d8 piercing |        |            |
+| Estoc       |       | STR: 10<br>DEX: 13 | STR: 12<br>DEX: 18 | 1d8 piercing |        |            |
+| Mailbreaker |       | STR: 10<br>DEX: 16 | STR: 10<br>DEX: 16 | 1d6 piercing |        |            |
 
 #### **Curved Swords**
 
-| Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Scimitar    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Falchion    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Shamsir     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Grossmesser |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Shotel      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type     | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
+| -------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
+| Scimitar |       | STR: 10<br>DEX: 11 | STR: 12<br>DEX: 18 | 1d8 slashing |        |            |
+| Falchion |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
+| Shotel   |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
 
 #### **Axes**
 
-| Type       | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Hand Axe   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Battle Axe |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| War Axe    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type       | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
+| ---------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
+| Hand Axe   |       | STR: 12<br>DEX: 12 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
+| Battle Axe |       | STR: 13<br>DEX: 10 | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
+| War Axe    |       | STR: 13<br>DEX: 10 | STR:<br>DEX:       |              |        |            |
 
 #### **Maces**
 
