@@ -22,4 +22,7 @@ These crystals, as the name suggests are a concentrated form of magic. Despite t
 - Fire
 - Cold
 - Lightning
+- Acid
+- Poison
+- Psychic
 - Force
