@@ -4,8 +4,8 @@ Melee weapons are separated into different "weapon types."
 
 | Type        | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
 | ----------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Short Sword |       | STR: 11<br>DEX: 11 | STR: 16<br>DEX: 16 | 1d6 slashing |        |            |
-| Longsword   |       | STR: 13<br>DEX: 11 | STR: 14<br>DEX: 16 | 1d8 slashing |        |            |
+| Short Sword |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 16 | 1d6 slashing |        |            |
+| Longsword   |       | STR: 13<br>DEX: 11 | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
 | Broadsword  |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
 
 
@@ -29,28 +29,28 @@ Melee weapons are separated into different "weapon types."
 
 | Type       | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
 | ---------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Hand Axe   |       | STR: 12<br>DEX: 12 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
+| Hand Axe   |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
 | Battle Axe |       | STR: 13<br>DEX: 10 | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
-| War Axe    |       | STR: 13<br>DEX: 10 | STR:<br>DEX:       |              |        |            |
+| War Axe    |       | STR: 13<br>DEX: 10 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
 
 #### **Maces**
 
-| Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Mace        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Morningstar |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Warpick     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type        | Price | Requirements       | Scaling            | Damage | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------------ | ------ | ------ | ---------- |
+| Mace        |       | STR: 11<br>DEX: 11 | STR: 16<br>DEX: 16 |        |        |            |
+| Morningstar |       | STR: 13<br>DEX: 11 | STR: 16<br>DEX: 14 |        |        |            |
+| Warpick     |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 |        |        |            |
 
 #### **Daggers**
 
-| Type            | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| --------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Dagger          |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Parrying Dagger |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Misericorde     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Main-Gauche     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Stilleto        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Dirk            |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type            | Price | Requirements      | Scaling      | Damage | Weight | Properties |
+| --------------- | ----- | ----------------- | ------------ | ------ | ------ | ---------- |
+| Dagger          |       | STR: 0<br>DEX: 10 | STR:<br>DEX: |        |        |            |
+| Parrying Dagger |       | STR: 0 <br>DEX:   | STR:<br>DEX: |        |        |            |
+| Misericorde     |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
+| Main-Gauche     |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
+| Stilleto        |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
+| Dirk            |       | STR:<br>DEX:      | STR:<br>DEX: |        |        |            |
 
 #### **Spears**
 
