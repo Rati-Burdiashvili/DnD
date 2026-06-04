@@ -13,9 +13,9 @@ Melee weapons are separated into different "weapon types."
 
 | Type        | Price | Scaling            | Damage       | Weight | Properties |
 | ----------- | ----- | ------------------ | ------------ | ------ | ---------- |
-| Rapier      |       | STR: 10<br>DEX: 20 | 1d8 piercing |        |            |
-| Estoc       |       | STR: 12<br>DEX: 18 | 1d8 piercing |        |            |
-| Mailbreaker |       | STR: 10<br>DEX: 16 | 1d6 piercing |        |            |
+| Rapier      |       | STR: 10<br>DEX: 18 | 1d8 piercing |        |            |
+| Estoc       |       | STR: 12<br>DEX: 16 | 1d8 piercing |        |            |
+| Mailbreaker |       | STR: 10<br>DEX: 14 | 1d6 piercing |        |            |
 
 #### **Curved Swords**
 
@@ -64,14 +64,12 @@ Melee weapons are separated into different "weapon types."
 
 | Type          | Price | Scaling            | Damage | Weight | Properties |
 | ------------- | ----- | ------------------ | ------ | ------ | ---------- |
-| Zweihander    |       | STR: 14<br>DEX: 18 |        |        |            |
+| Zweihander    |       | STR: 16<br>DEX: 18 |        |        |            |
 | Greatsword    |       | STR: 20<br>DEX: 10 |        |        |            |
-| Great Mace    |       | STR: 18<br>DEX: 14 |        |        |            |
-| Battle hammer |       | STR:<br>DEX:       |        |        |            |
-| Heavy Spear   |       | STR:<br>DEX:       |        |        |            |
-| Sword Spear   |       | STR:<br>DEX:       |        |        |            |
-| Great Axe     |       | STR:<br>DEX:       |        |        |            |
-| Longshaft Axe |       | STR:<br>DEX:       |        |        |            |
+| Great Mace    |       | STR: 18<br>DEX: 16 |        |        |            |
+| Battle hammer |       | STR: 20<br>DEX: 10 |        |        |            |
+| Great Axe     |       | STR: 18<br>DEX: 14 |        |        |            |
+| Longshaft Axe |       | STR: 20<br>DEX: 10 |        |        |            |
 
 #### **Fist Weapons**
 
