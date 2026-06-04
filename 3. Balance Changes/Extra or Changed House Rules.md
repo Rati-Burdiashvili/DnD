@@ -1,0 +1,2 @@
+- Short rests now take 10 minutes instead of an hour.
+	- Abilities that would take 
