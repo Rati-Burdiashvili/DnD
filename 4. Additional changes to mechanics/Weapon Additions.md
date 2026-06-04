@@ -16,27 +16,31 @@ Rifle    - 3gp
 Shotgun  - 0.2gp
 Sniper   - 0.5gp
 
-Weapons can have attachments to increase their modifiers. A weapon can have 4 different attachments: magazine, scope, barrel, stock, mount.
+Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
 
 **Barrel.**
-- **Extension.** Firearm range increases by half.
-- **Silencer.** Dampens the firearm sound. Perception checks based on sound will have disadvantage to detect the source of the sound.
-- **Muzzle.** Dampens the firearm flash. Perception checks based on sound will have disadvantage to detect the source of the sound.
+- **Extension.** Firearm range increases by half.(80gp)
+- **Silencer.** Dampens the firearm sound. Perception checks based on sound will have disadvantage to detect the source of the sound.(50gp)
+- **Muzzle.** Dampens the firearm flash. Perception checks based on sound will have disadvantage to detect the source of the sound.(50gp)
+
 **Extended Magazine.**(handgun and rifle exclusive)
 - **+2**. Increased magazine capacity
 - **+4**. Increased magazine capacity
 - **+6**. Increased magazine capacity
+
 **Scope.**
-- **Basic.** You add half of the difference between your normal and longer ranges to your normal range.
+- **Basic.** You add half of the difference between your normal and longer ranges to your normal range.()
 - **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+
 **Stock.**
 - **+1.** Increased to hit.
 - **+2.** Increased to hit.
 - **+3.** Increased to hit.
+
 **Mount.**
 - **Flashlight.** It's a flashlight.
-- 
-****
+- **Laser Pointer.** You no longer have disadvantage on ranged attacks made within 5 feet.
+
 
 ####  **Crystal**
 
