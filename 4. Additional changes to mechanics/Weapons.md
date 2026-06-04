@@ -24,7 +24,8 @@
 | Estoc       | 25    | STR: 14<br>DEX: 18 | 1d8 piercing | 3 lb   | Martial<br>Finesse |
 | Mailbreaker | 15    | STR: 12<br>DEX: 16 | 1d6 piercing | 1 lb   | Simple             |
 **Lunge.** You move 10 feet forwards as part of the attack action. This attack does 1.5x posture damage.
-Impaling Thrust. You Lunge 10 feet towards a target 
+**Impaling Thrust.** You lunge 5 feet towards a target without expending your movement. This attack has +2 to hit. 
+**Repeating Thrusts.** You make another attack as part of your attack action.
 
 #### **Curved Swords**
 
