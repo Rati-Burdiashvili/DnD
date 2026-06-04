@@ -8,8 +8,8 @@ There are two types of firearms: standard and crystal.
 | ------- | ----- | ---------------- | ------ | -------------------------------------------------------------------------------- |
 | Handgun | 50gp  | 1d8<br>piercing  | 3lb    | Ammunition<br>Range:90/150<br>Loading<br>Magazine: 7                             |
 | Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:150/300<br>Loading<br>Magazine: 9                            |
-| Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
-| Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
+| Shotgun | 150gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
+| Sniper  | 200gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
 The cost of each firearms bullets/magazines is as follows(each tier increases the damage die tier by one):
 
 |         | Common | Uncommon | Rare |
@@ -23,9 +23,9 @@ The cost of each firearms bullets/magazines is as follows(each tier increases th
 Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
 
 **Barrel.**
-- **Extension.** Firearm range increases by half.(80gp)
-- **Silencer.** Dampens the firearm sound. Perception checks based on sound will have disadvantage to detect the source of the sound.(50gp)
-- **Muzzle.** Dampens the firearm flash. Perception checks based on sound will have disadvantage to detect the source of the sound.(50gp)
+- **Extension.** Firearm range increases by half.(60gp)
+- **Silencer.** Dampens the firearm sound. Perception checks based on sound will have disadvantage to detect the source of the sound.(40gp)
+- **Muzzle.** Dampens the firearm flash. Perception checks based on sound will have disadvantage to detect the source of the sound.(30gp)
 
 **Extended Magazine.**(handgun and rifle exclusive)
 - **+2**. Increased magazine capacity
@@ -37,8 +37,8 @@ Weapons can have attachments to increase their modifiers. A weapon can have 5 di
 - **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.(125gp)
 
 **Stock.**
-- **+1.** Increased to hit.(100gp)
-- **+2.** Increased to hit.(500gp)
+- **+1.** Increased to hit.(gp)
+- **+2.** Increased to hit.(5000gp)
 
 **Mount.**
 - **Flashlight.** It's a flashlight.(5gp)
