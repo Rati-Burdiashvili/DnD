@@ -18,7 +18,7 @@ Other than tiers, the sanctuary divides students by schools of magic(evocation, 
 
 ---
 
-Astral Sanctuary, despite its relations and contributions to the outside, remains 
+Astral Sanctuary, despite its relations and contributions to the outside, remains secluded in its ways. Many of its high ranking mages believe that only in magic lies salvation for their world, and they desperately try to understand and harness the <span class="akl-suggested-link" data-target="Mana" data-block="" data-use-relative="false" data-keyword-index="5">mana</span> of 
 
 
 ### **Overview of Research**
