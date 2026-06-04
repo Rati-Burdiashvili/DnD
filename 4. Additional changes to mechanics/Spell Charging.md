@@ -3,7 +3,6 @@
 **Charging.** Instead of casting a spell normally, you may choose to charge it instead. 
 - Charging counts as concentrating on a spell.
 - Once you begin charging, your speed becomes 0 and you lose your reaction until the start of your next turn.
-- At the start of your next turn, charging will be complete and the spell will be cast. 
 - You can only charge spells that require an action or bonus action to cast.
 - You cannot charge spells that require a reaction to cast, or have longer casting times than one turn. You also cannot charge cantrips.
 - You are still able to act that turn fully. 
