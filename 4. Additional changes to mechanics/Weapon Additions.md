@@ -14,10 +14,10 @@ The cost of each firearms bullets/magazines is as follows(each tier increases th
 
 |         | Common | Uncommon | Rare |
 | ------- | ------ | -------- | ---- |
-| Handgun | 2gp    | 10gp     | 30gp |
-| Rifle   | 3gp    | 15gp     | 60gp |
-| Shotgun | 0.2    |          |      |
-| Sniper  | 0.5    |          |      |
+| Handgun | 2gp    | 25gp     | gp   |
+| Rifle   | 3gp    | 30gp     | 10gp |
+| Shotgun | 0.2gp  | 4gp      | 1gp  |
+| Sniper  | 0.5gp  | 1.5gp    | 2gp  |
 
 
 Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
@@ -36,8 +36,8 @@ Weapons can have attachments to increase their modifiers. A weapon can have 5 di
 - **Basic.** You add half of the difference between your normal and longer ranges to your normal range.(75gp)
 - **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.(125gp)
 
-**Stock.**
-- **+1.** Increased to hit.(gp)
+**Stock and Balance.**
+- **+1.** Increased to hit.(1000gp)
 - **+2.** Increased to hit.(5000gp)
 
 **Mount.**
