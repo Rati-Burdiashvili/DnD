@@ -35,43 +35,43 @@ Melee weapons are separated into different "weapon types."
 
 #### **Maces**
 
-| Type        | Price | Scaling            | Damage                          | Weight | Properties |
-| ----------- | ----- | ------------------ | ------------------------------- | ------ | ---------- |
-| Mace        |       | STR: 16<br>DEX: 16 | 1d8 bludgeoning                 |        |            |
-| Morningstar |       | STR: 16<br>DEX: 14 | 1d4 bludgeoning<br>1d4 piercing |        |            |
-| Warpick     |       | STR: 18<br>DEX: 12 | 1d8 bludgeoning<br>             |        |            |
+| Type        | Price | Scaling            | Damage                                | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------------------------------- | ------ | ---------- |
+| Mace        |       | STR: 16<br>DEX: 16 | 1d8 bludgeoning                       |        |            |
+| Morningstar |       | STR: 16<br>DEX: 14 | 1d4 bludgeoning<br>1d4 piercing       |        |            |
+| Warpick     |       | STR: 18<br>DEX: 12 | 1d8 bludgeoning<br>or<br>1d8 piercing |        |            |
 
 #### **Daggers**
 
-| Type            | Price | Scaling            | Damage | Weight | Properties |
-| --------------- | ----- | ------------------ | ------ | ------ | ---------- |
-| Dagger          |       | STR: 10<br>DEX: 16 |        |        |            |
-| Parrying Dagger |       | STR: 10<br>DEX: 14 |        |        |            |
-| Misericorde     |       | STR: 10<br>DEX: 18 |        |        |            |
-| Dirk            |       | STR: 10<br>DEX: 20 |        |        |            |
+| Type            | Price | Scaling            | Damage       | Weight | Properties |
+| --------------- | ----- | ------------------ | ------------ | ------ | ---------- |
+| Dagger          |       | STR: 10<br>DEX: 16 | 1d4 piercing |        |            |
+| Parrying Dagger |       | STR: 10<br>DEX: 14 | 1d4 piercing |        |            |
+| Misericorde     |       | STR: 10<br>DEX: 18 | 1d4 piercing |        |            |
+| Dirk            |       | STR: 10<br>DEX: 20 | 1d4 piercing |        |            |
 
 #### **Spears**
 
-| Type     | Price | Scaling        | Damage | Weight | Properties |
-| -------- | ----- | -------------- | ------ | ------ | ---------- |
-| Javelin  |       | STR: <br>DEX:  |        |        |            |
-| Spear    |       | STR: <br>DEX:  |        |        |            |
-| Partisan |       | STR:<br>DEX:   |        |        |            |
-| Pike     |       | STR:<br>DEX:   |        |        |            |
+| Type     | Price | Scaling             | Damage | Weight | Properties |
+| -------- | ----- | ------------------- | ------ | ------ | ---------- |
+| Javelin  |       | STR: 18 <br>DEX: 12 |        |        |            |
+| Spear    |       | STR: 16 <br>DEX: 16 |        |        |            |
+| Partisan |       | STR: 20<br>DEX: 10  |        |        |            |
+| Pike     |       | STR: 10<br>DEX: 20  |        |        |            |
 
 
 #### **Great Weapons**
 
-| Type          | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Zweihander    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Greatsword    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Great Mace    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Battle hammer |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Heavy Spear   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Sword Spear   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Great Axe     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Longshaft Axe |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type          | Price | Scaling            | Damage | Weight | Properties |
+| ------------- | ----- | ------------------ | ------ | ------ | ---------- |
+| Zweihander    |       | STR: 14<br>DEX: 18 |        |        |            |
+| Greatsword    |       | STR: 20<br>DEX: 10 |        |        |            |
+| Great Mace    |       | STR: 18<br>DEX: 14 |        |        |            |
+| Battle hammer |       | STR:<br>DEX:       |        |        |            |
+| Heavy Spear   |       | STR:<br>DEX:       |        |        |            |
+| Sword Spear   |       | STR:<br>DEX:       |        |        |            |
+| Great Axe     |       | STR:<br>DEX:       |        |        |            |
+| Longshaft Axe |       | STR:<br>DEX:       |        |        |            |
 
 #### **Fist Weapons**
 
@@ -92,12 +92,12 @@ Melee weapons are separated into different "weapon types."
 
 #### **Polearm Weapons**
 
-| Type         | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Quarterstaff |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Glaive       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Halberd      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Lucerne      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type         | Price | Scaling      | Damage | Weight | Properties |
+| ------------ | ----- | ------------ | ------ | ------ | ---------- |
+| Quarterstaff |       | STR:<br>DEX: |        |        |            |
+| Glaive       |       | STR:<br>DEX: |        |        |            |
+| Halberd      |       | STR:<br>DEX: |        |        |            |
+| Lucerne      |       | STR:<br>DEX: |        |        |            |
 
 #### **Bows**
 
