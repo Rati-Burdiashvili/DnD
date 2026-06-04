@@ -10,11 +10,21 @@ There are two types of firearms: standard and crystal.
 | Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:150/300<br>Loading<br>Magazine: 9                            |
 | Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
 | Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
-The cost of each firearms bullets/magazines is as follows:
-Handgun  - 2gp
-Rifle    - 3gp
-Shotgun  - 0.2gp
-Sniper   - 0.5gp
+The cost of each firearms bullets/magazines is as follows(each tier increases the damage die tier by one):
+**Common.**
+- Handgun  - 2gp
+- Rifle    - 3gp
+- Shotgun  - 0.2gp
+- Sniper   - 0.5gp
+
+
+|         | Common |     |     |
+| ------- | ------ | --- | --- |
+| Handgun |        |     |     |
+| Rifle   |        |     |     |
+| Shotgun |        |     |     |
+| Sniper  |        |     |     |
+
 
 Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
 
@@ -29,17 +39,16 @@ Weapons can have attachments to increase their modifiers. A weapon can have 5 di
 - **+6**. Increased magazine capacity
 
 **Scope.**
-- **Basic.** You add half of the difference between your normal and longer ranges to your normal range.()
-- **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- **Basic.** You add half of the difference between your normal and longer ranges to your normal range.(75gp)
+- **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.(125gp)
 
 **Stock.**
-- **+1.** Increased to hit.
-- **+2.** Increased to hit.
-- **+3.** Increased to hit.
+- **+1.** Increased to hit.(100gp)
+- **+2.** Increased to hit.(500gp)
 
 **Mount.**
-- **Flashlight.** It's a flashlight.
-- **Laser Pointer.** You no longer have disadvantage on ranged attacks made within 5 feet.
+- **Flashlight.** It's a flashlight.(5gp)
+- **Laser Pointer.** You no longer have disadvantage on ranged attacks made within 5 feet.(50gp)
 
 
 ####  **Crystal**
