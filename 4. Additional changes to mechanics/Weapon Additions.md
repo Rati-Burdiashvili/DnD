@@ -10,11 +10,14 @@ There are two types of firearms: standard and crystal.
 | Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:90/180<br>Loading<br>Magazine: 9                             |
 | Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:15/30<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
 | Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:150/300<br>Loading<br>Heavy<br>Two-Handed                    |
-The cost of each firearms bullets is as follows:
-Handgun  - 5gp
-Rifle    - 10gp
-Shotgun  - 5gp
-Sniper   - 10gp
+The cost of each firearms bullets/magazines is as follows:
+Handgun  - 2gp
+Rifle    - 3gp
+Shotgun  - 0.2gp
+Sniper   - 0.5gp
+
+Weapons can have attachments to increase their modifiers.
+**Extended Barrel.**
 
 ####  **Crystal**
 
