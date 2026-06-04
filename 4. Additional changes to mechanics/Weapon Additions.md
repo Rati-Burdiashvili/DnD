@@ -20,7 +20,14 @@ Weapons can have attachments to increase their modifiers. A weapon can have 4 di
 
 **Barrel.**
 - **Extension.** Firearm range increases by half.
-**Extended Magazine.**
+- **Silencer.** Dampens the firearm sound. Perception checks based on sound will have disadvantage to detect the source of the sound.
+- **Muzzle.** Dampens the firearm flash. Perception checks based on sound will have disadvantage to detect the source of the sound.
+**Extended Magazine.**(handgun and rifle exclusive)
+- **+2**. Increased magazine capacity
+- **+4**. Increased magazine capacity
+- **+6**. Increased magazine capacity
+**Scope.**
+- 
 ****
 
 ####  **Crystal**
