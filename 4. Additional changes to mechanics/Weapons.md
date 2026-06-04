@@ -2,64 +2,62 @@ Melee weapons are separated into different "weapon types."
 
 #### **Straight Swords**
 
-| Type        | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
-| ----------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Short Sword |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 16 | 1d6 slashing |        |            |
-| Longsword   |       | STR: 13<br>DEX: 11 | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
-| Broadsword  |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
+| Type        | Price | Scaling            | Damage       | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------ | ------ | ---------- |
+| Short Sword |       | STR: 14<br>DEX: 16 | 1d6 slashing |        |            |
+| Longsword   |       | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
+| Broadsword  |       | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
 
 
 #### **Thrusting Swords**
 
-| Type        | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
-| ----------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Rapier      |       | STR: 10<br>DEX: 14 | STR: 10<br>DEX: 20 | 1d8 piercing |        |            |
-| Estoc       |       | STR: 10<br>DEX: 13 | STR: 12<br>DEX: 18 | 1d8 piercing |        |            |
-| Mailbreaker |       | STR: 10<br>DEX: 16 | STR: 10<br>DEX: 16 | 1d6 piercing |        |            |
+| Type        | Price | Scaling            | Damage       | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------ | ------ | ---------- |
+| Rapier      |       | STR: 10<br>DEX: 20 | 1d8 piercing |        |            |
+| Estoc       |       | STR: 12<br>DEX: 18 | 1d8 piercing |        |            |
+| Mailbreaker |       | STR: 10<br>DEX: 16 | 1d6 piercing |        |            |
 
 #### **Curved Swords**
 
-| Type     | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
-| -------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Scimitar |       | STR: 10<br>DEX: 11 | STR: 12<br>DEX: 18 | 1d8 slashing |        |            |
-| Falchion |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
-| Shotel   |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
+| Type     | Price | Scaling            | Damage       | Weight | Properties |
+| -------- | ----- | ------------------ | ------------ | ------ | ---------- |
+| Scimitar |       | STR: 12<br>DEX: 18 | 1d8 slashing |        |            |
+| Falchion |       | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
+| Shotel   |       | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
 
 #### **Axes**
 
-| Type       | Price | Requirements       | Scaling            | Damage       | Weight | Properties |
-| ---------- | ----- | ------------------ | ------------------ | ------------ | ------ | ---------- |
-| Hand Axe   |       | STR: 11<br>DEX: 11 | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
-| Battle Axe |       | STR: 13<br>DEX: 10 | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
-| War Axe    |       | STR: 13<br>DEX: 10 | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
+| Type       | Price | Scaling            | Damage       | Weight | Properties |
+| ---------- | ----- | ------------------ | ------------ | ------ | ---------- |
+| Hand Axe   |       | STR: 14<br>DEX: 14 | 1d6 slashing |        |            |
+| Battle Axe |       | STR: 16<br>DEX: 16 | 1d8 slashing |        |            |
+| War Axe    |       | STR: 18<br>DEX: 12 | 1d8 slashing |        |            |
 
 #### **Maces**
 
-| Type        | Price | Requirements       | Scaling            | Damage | Weight | Properties |
-| ----------- | ----- | ------------------ | ------------------ | ------ | ------ | ---------- |
-| Mace        |       | STR: 11<br>DEX: 11 | STR: 16<br>DEX: 16 |        |        |            |
-| Morningstar |       | STR: 13<br>DEX: 11 | STR: 16<br>DEX: 14 |        |        |            |
-| Warpick     |       | STR: 13<br>DEX: 11 | STR: 18<br>DEX: 12 |        |        |            |
+| Type        | Price | Scaling            | Damage                          | Weight | Properties |
+| ----------- | ----- | ------------------ | ------------------------------- | ------ | ---------- |
+| Mace        |       | STR: 16<br>DEX: 16 | 1d8 bludgeoning                 |        |            |
+| Morningstar |       | STR: 16<br>DEX: 14 | 1d4 bludgeoning<br>1d4 piercing |        |            |
+| Warpick     |       | STR: 18<br>DEX: 12 | 1d8 bludgeoning<br>             |        |            |
 
 #### **Daggers**
 
-| Type            | Price | Requirements      | Scaling      | Damage | Weight | Properties |
-| --------------- | ----- | ----------------- | ------------ | ------ | ------ | ---------- |
-| Dagger          |       | STR: 0<br>DEX: 10 | STR:<br>DEX: |        |        |            |
-| Parrying Dagger |       | STR: 0 <br>DEX:   | STR:<br>DEX: |        |        |            |
-| Misericorde     |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
-| Main-Gauche     |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
-| Stilleto        |       | STR: 0<br>DEX:    | STR:<br>DEX: |        |        |            |
-| Dirk            |       | STR:<br>DEX:      | STR:<br>DEX: |        |        |            |
+| Type            | Price | Scaling            | Damage | Weight | Properties |
+| --------------- | ----- | ------------------ | ------ | ------ | ---------- |
+| Dagger          |       | STR: 10<br>DEX: 16 |        |        |            |
+| Parrying Dagger |       | STR: 10<br>DEX: 14 |        |        |            |
+| Misericorde     |       | STR: 10<br>DEX: 18 |        |        |            |
+| Dirk            |       | STR: 10<br>DEX: 20 |        |        |            |
 
 #### **Spears**
 
-| Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Short Spear |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Spear       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Partisan    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Pike        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type     | Price | Scaling        | Damage | Weight | Properties |
+| -------- | ----- | -------------- | ------ | ------ | ---------- |
+| Javelin  |       | STR: <br>DEX:  |        |        |            |
+| Spear    |       | STR: <br>DEX:  |        |        |            |
+| Partisan |       | STR:<br>DEX:   |        |        |            |
+| Pike     |       | STR:<br>DEX:   |        |        |            |
 
 
 #### **Great Weapons**
@@ -77,19 +75,19 @@ Melee weapons are separated into different "weapon types."
 
 #### **Fist Weapons**
 
-| Type    | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Claws   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Katar   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Pata    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Caestus |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type    | Price | Scaling      | Damage | Weight | Properties |
+| ------- | ----- | ------------ | ------ | ------ | ---------- |
+| Claws   |       | STR:<br>DEX: |        |        |            |
+| Katar   |       | STR:<br>DEX: |        |        |            |
+| Pata    |       | STR:<br>DEX: |        |        |            |
+| Caestus |       | STR:<br>DEX: |        |        |            |
 
 #### **Flails**
 
-| Type               | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Flail              |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Morning Star Flail |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type               | Price | Scaling      | Damage | Weight | Properties |
+| ------------------ | ----- | ------------ | ------ | ------ | ---------- |
+| Flail              |       | STR:<br>DEX: |        |        |            |
+| Morning Star Flail |       | STR:<br>DEX: |        |        |            |
 
 
 #### **Polearm Weapons**
@@ -103,22 +101,22 @@ Melee weapons are separated into different "weapon types."
 
 #### **Bows**
 
-| Type          | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Short Bow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Long Bow      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Composite Bow |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Great Bow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Compound Bow  |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type          | Price | Scaling      | Damage | Weight | Properties |
+| ------------- | ----- | ------------ | ------ | ------ | ---------- |
+| Short Bow     |       | STR:<br>DEX: |        |        |            |
+| Long Bow      |       | STR:<br>DEX: |        |        |            |
+| Composite Bow |       | STR:<br>DEX: |        |        |            |
+| Great Bow     |       | STR:<br>DEX: |        |        |            |
+| Compound Bow  |       | STR:<br>DEX: |        |        |            |
 
 #### **Crossbows**
 
-| Type               | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Light Crossbow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Medium Crosssbow   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Heavy Crossbow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Repeating Crossbow |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type               | Price | Scaling      | Damage | Weight | Properties |
+| ------------------ | ----- | ------------ | ------ | ------ | ---------- |
+| Light Crossbow     |       | STR:<br>DEX: |        |        |            |
+| Medium Crosssbow   |       | STR:<br>DEX: |        |        |            |
+| Heavy Crossbow     |       | STR:<br>DEX: |        |        |            |
+| Repeating Crossbow |       | STR:<br>DEX: |        |        |            |
 
 #### **Shields**
 
@@ -130,8 +128,8 @@ Melee weapons are separated into different "weapon types."
 
 #### **Miscellaneous weapons**
 
-| Type         | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Whip         |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Thorned Whip |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Scythe       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type         | Price | Scaling      | Damage | Weight | Properties |
+| ------------ | ----- | ------------ | ------ | ------ | ---------- |
+| Whip         |       | STR:<br>DEX: |        |        |            |
+| Thorned Whip |       | STR:<br>DEX: |        |        |            |
+| Scythe       |       | STR:<br>DEX: |        |        |            |
