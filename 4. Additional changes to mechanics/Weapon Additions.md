@@ -6,18 +6,22 @@ There are two types of firearms: standard and crystal.
 
 | Type    | Price | Damage           | Weight | Properties                                                                       |
 | ------- | ----- | ---------------- | ------ | -------------------------------------------------------------------------------- |
-| Handgun | 50gp  | 1d8<br>piercing  | 3lb    | Ammunition<br>Range:45/60<br>Loading<br>Magazine: 7                              |
-| Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:90/180<br>Loading<br>Magazine: 9                             |
-| Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:15/30<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
-| Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:150/300<br>Loading<br>Heavy<br>Two-Handed                    |
+| Handgun | 50gp  | 1d8<br>piercing  | 3lb    | Ammunition<br>Range:90/120<br>Loading<br>Magazine: 7                             |
+| Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:150/300<br>Loading<br>Magazine: 9                            |
+| Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
+| Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
 The cost of each firearms bullets/magazines is as follows:
 Handgun  - 2gp
 Rifle    - 3gp
 Shotgun  - 0.2gp
 Sniper   - 0.5gp
 
-Weapons can have attachments to increase their modifiers.
-**Extended Barrel.**
+Weapons can have attachments to increase their modifiers. A weapon can have 4 different attachments: magazine, scope, barrel, stock, mount.
+
+**Barrel.**
+- **Extension.** Firearm range increases by half.
+**Extended Magazine.**
+****
 
 ####  **Crystal**
 
