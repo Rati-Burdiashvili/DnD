@@ -5,64 +5,64 @@ Melee weapons are separated into different "weapon types."
 | Type         | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | ------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Short Sword  |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| LongSword    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| BroadSword   |       |              |              |        |        |            |
-| Arming Sword |       |              |              |        |        |            |
+| Longsword    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Broadsword   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Arming Sword |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 
 #### **Thrusting Swords**
 
-| Type   | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Rapier |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Estoc  |       |              |              |        |        |            |
-|        |       |              |              |        |        |            |
+| Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Rapier      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Estoc       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Mailbreaker |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 #### **Curved Swords**
 
 | Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Scimitar    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Falchion    |       |              |              |        |        |            |
-| Shamsir     |       |              |              |        |        |            |
-| Grossmesser |       |              |              |        |        |            |
-| Shotel      |       |              |              |        |        |            |
+| Falchion    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Shamsir     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Grossmesser |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Shotel      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 #### **Axes**
 
 | Type       | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | ---------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Hand Axe   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Battle Axe |       |              |              |        |        |            |
-|            |       |              |              |        |        |            |
+| Battle Axe |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| War Axe    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 #### **Maces**
 
 | Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Mace        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Morningstar |       |              |              |        |        |            |
-| Warpick     |       |              |              |        |        |            |
+| Morningstar |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Warpick     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 #### **Daggers**
 
 | Type            | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | --------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Dagger          |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Parrying Dagger |       |              |              |        |        |            |
-| Misericorde     |       |              |              |        |        |            |
-| Main-Gauche     |       |              |              |        |        |            |
-| Stilleto        |       |              |              |        |        |            |
-| Dirk            |       |              |              |        |        |            |
+| Parrying Dagger |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Misericorde     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Main-Gauche     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Stilleto        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Dirk            |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 
 #### **Spears**
 
 | Type        | Price | Requirements | Scaling      | Damage | Weight | Properties |
 | ----------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
 | Short Spear |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Spear       |       |              |              |        |        |            |
-| Partisan    |       |              |              |        |        |            |
-| Pike        |       |              |              |        |        |            |
+| Spear       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Partisan    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Pike        |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
 |             |       |              |              |        |        |            |
 
 #### **Great Weapons**
@@ -125,12 +125,16 @@ Melee weapons are separated into different "weapon types."
 
 #### **Shields**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type          | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Buckler       |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Heater Shield |       |              |              |        |        |            |
+| Tower Shield  |       |              |              |        |        |            |
 
 #### **Miscellaneous weapons**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type         | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Whip         |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Thorned Whip |       |              |              |        |        |            |
+| Scythe       |       |              |              |        |        |            |
