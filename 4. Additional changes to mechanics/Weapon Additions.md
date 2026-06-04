@@ -6,7 +6,7 @@ There are two types of firearms: standard and crystal.
 
 | Type    | Price | Damage           | Weight | Properties                                                                       |
 | ------- | ----- | ---------------- | ------ | -------------------------------------------------------------------------------- |
-| Handgun | 50gp  | 1d8<br>piercing  | 3lb    | Ammunition<br>Range:90/120<br>Loading<br>Magazine: 7                             |
+| Handgun | 50gp  | 1d8<br>piercing  | 3lb    | Ammunition<br>Range:90/150<br>Loading<br>Magazine: 7                             |
 | Rifle   | 100gp | 1d10<br>piercing | 6lb    | Ammunition<br>Range:150/300<br>Loading<br>Magazine: 9                            |
 | Shotgun | 200gp | 2d8<br>piercing  | 8lb    | Ammunition<br>Range:30/45<br>Loading(2)<br>Holds 6 shells<br>Heavy<br>Two-Handed |
 | Sniper  | 400gp | 1d12<br>piercing | 12lb   | Ammunition<br>Range:300/600<br>Loading<br>Heavy<br>Two-Handed                    |
@@ -27,6 +27,14 @@ Weapons can have attachments to increase their modifiers. A weapon can have 4 di
 - **+4**. Increased magazine capacity
 - **+6**. Increased magazine capacity
 **Scope.**
+- **Basic.** You add half of the difference between your normal and longer ranges to your normal range.
+- **Advanced.** Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+**Stock.**
+- **+1.** Increased to hit.
+- **+2.** Increased to hit.
+- **+3.** Increased to hit.
+**Mount.**
+- **Flashlight.** It's a flashlight.
 - 
 ****
 
