@@ -7,3 +7,7 @@ The members of the institute have been working tirelessly day and night to bring
 They have succeeded in this endeavor, utilizing the crystals as the source of power for not only weapons, but many everyday appliances as well. Perhaps their biggest achievement is figuring out how to synthesize smaller crystals into larger ones, creating a consistent source of fuel for heavy machinery and airships.
 
 They work closely with the [[Lavender Clinic|lavender clinic]], to provide them with necessary equipment, with [[Umbra|umbra]] to make sure they have enough fuel and weapons and the [[2. World Building(Soluna)/5. Factions/Astral Sanctuary/Astral Sanctuary|astral sanctuary]] to try to harness the power of the liquid moonlight.
+
+---
+
+The Institute
