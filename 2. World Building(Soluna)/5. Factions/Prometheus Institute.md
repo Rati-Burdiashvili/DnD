@@ -12,6 +12,11 @@ They have succeeded in this endeavor, utilizing the crystals as the source of po
 
 They work closely with the [[Lavender Clinic|lavender clinic]], to provide them with necessary equipment, with [[Umbra|umbra]] to make sure they have enough fuel and weapons and the [[2. World Building(Soluna)/5. Factions/Astral Sanctuary/Astral Sanctuary|astral sanctuary]] to try to harness the power of the liquid moonlight.
 
+---
+
+While the institute does its job well, in supplying the rest with enough technology and crystals for survival, a shift in direction in the last few years is evident. 
+
+Inside the institute is a new team, wholly dedicated to create a flying machine, durable enough, with an efficient and long lasting power source, to reach the belt of peace. An endeavor thought to be impossible by previous leadership.  
 
 #### **Amalthea**
 
