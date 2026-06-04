@@ -1,2 +1,3 @@
 - Short rests now take 10 minutes instead of an hour.
-	- Abilities that would take 
+	- Abilities that would take a short rest or up to an hour to recharge will take only 10 minutes, as long as it is for the short rest.
+	- Short rests are now limited to only 3 per long rest.

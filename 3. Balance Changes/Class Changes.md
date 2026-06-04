@@ -1,0 +1,2 @@
+- Monks now gain additional Ki points equal to their wisdom modifier.
+- Monks can choose either dex
