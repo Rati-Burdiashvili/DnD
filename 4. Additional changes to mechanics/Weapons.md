@@ -13,7 +13,7 @@
 | Short Sword | 10    | STR: 16<br>DEX: 18 | 1d6 slashing | 2 lb   | Simple               |
 | Longsword   | 15    | STR: 18<br>DEX: 18 | 1d8 slashing | 3 lb   | Martial<br>Versatile |
 | Broadsword  | 15    | STR: 20<br>DEX: 14 | 1d8 slashing | 4 lb   | Martial<br>Versatile |
-**Square off.** Your speed reduced by half as you enter a stance. Afterwards you may choose to perform a slashing attack or a piercing attack. The slash does 1d10 damage and 1.5x posture damage. The pierce does 1d10 damage and 2.0x posture damage.
+**Square off.** Your speed reduced by half as you enter a stance. Afterwards you perform a piercing attack that does 2.0x posture damage.
 **Double Slash.** You make another attack as part of the attack action.
 
 #### **Thrusting Swords**
@@ -23,7 +23,8 @@
 | Rapier      | 25    | STR: 12<br>DEX: 20 | 1d8 piercing | 2 lb   | Martial<br>Finesse |
 | Estoc       | 25    | STR: 14<br>DEX: 18 | 1d8 piercing | 3 lb   | Martial<br>Finesse |
 | Mailbreaker | 15    | STR: 12<br>DEX: 16 | 1d6 piercing | 1 lb   | Simple             |
-**Lunge.** You move 10 feet forwards as part of the attack action.
+**Lunge.** You move 10 feet forwards as part of the attack action. This attack does 1.5x posture damage.
+Impaling Thrust. You Lunge 10 feet towards a target 
 
 #### **Curved Swords**
 
