@@ -67,42 +67,61 @@ Melee weapons are separated into different "weapon types."
 
 #### **Great Weapons**
 
-| Type       | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-| Zweihander |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
-| Greatsword |       |              |              |        |        |            |
-| Great Mace |       |              |              |        |        |            |
-|            |       |              |              |        |        |            |
+| Type          | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Zweihander    |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Greatsword    |       |              |              |        |        |            |
+| Great Mace    |       |              |              |        |        |            |
+| Battle hammer |       |              |              |        |        |            |
+| Heavy Spear   |       |              |              |        |        |            |
+| Sword Spear   |       |              |              |        |        |            |
+| Great Axe     |       |              |              |        |        |            |
+| Longshaft Axe |       |              |              |        |        |            |
 
 #### **Fist Weapons**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type    | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Claws   |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Katar   |       |              |              |        |        |            |
+| Pata    |       |              |              |        |        |            |
+| Caestus |       |              |              |        |        |            |
 
 #### **Flails**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type               | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Flail              |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Morning Star Flail |       |              |              |        |        |            |
+|                    |       |              |              |        |        |            |
 
 #### **Polearm Weapons**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type         | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Quarterstaff |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Glaive       |       |              |              |        |        |            |
+| Halberd      |       |              |              |        |        |            |
+| Lucerne      |       |              |              |        |        |            |
 
 #### **Bows**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type          | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Short Bow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Long Bow      |       |              |              |        |        |            |
+| Composite Bow |       |              |              |        |        |            |
+| Great Bow     |       |              |              |        |        |            |
+| Compound Bow  |       |              |              |        |        |            |
 
 #### **Crossbows**
 
-| Type | Price | Requirements | Scaling      | Damage | Weight | Properties |
-| ---- | ----- | ------------ | ------------ | ------ | ------ | ---------- |
-|      |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Type               | Price | Requirements | Scaling      | Damage | Weight | Properties |
+| ------------------ | ----- | ------------ | ------------ | ------ | ------ | ---------- |
+| Light Crossbow     |       | STR:<br>DEX: | STR:<br>DEX: |        |        |            |
+| Medium Crosssbow   |       |              |              |        |        |            |
+| Heavy Crossbow     |       |              |              |        |        |            |
+| Repeating Crossbow |       |              |              |        |        |            |
 
 #### **Shields**
 
