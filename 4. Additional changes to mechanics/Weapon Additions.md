@@ -17,7 +17,7 @@ The cost of each firearms bullets/magazines is as follows(each tier increases th
 | Handgun | 2gp    | 25gp     | 125gp |
 | Rifle   | 3gp    | 30gp     | 150gp |
 | Shotgun | 0.5gp  | 3gp      | 30gp  |
-| Sniper  | 0.2gp  | 2.5gp    | 25gp  |
+| Sniper  | 0.2gp  | 2.5gp    | 25Pgp |
 
 
 Weapons can have attachments to increase their modifiers. A weapon can have 5 different attachments: magazine, scope, barrel, stock, mount.
