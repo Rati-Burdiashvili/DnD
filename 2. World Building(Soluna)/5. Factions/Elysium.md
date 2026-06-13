@@ -21,7 +21,7 @@ But unfortunately as of late, the guild has fallen on hard times. There have bee
 
 ### **Explored Worlds**
 
-1. Avalon - a medieval kingdom on the verge of collapse from an undead uprising.
+	1. Avalon - a medieval kingdom on the verge of collapse from an undead uprising.
 	- Status - inaccessible
 	- Casualties - none
 2. Ancient forest - an ancient forest home to giant creatures. The explorers were tasked with safeguarding and escorting a young child to the forest's guardian.
